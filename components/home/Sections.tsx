@@ -134,26 +134,54 @@ export function Featured() {
   const feat = products.filter((p) => p.featured);
   const rows: typeof feat[] = [[], []];
   feat.forEach((p, i) => rows[i % 2].push(p));
+
   return (
     <section className="pm-section pm-section--alt pm-featured" aria-labelledby="pm-featured-title">
+      <div className="pm-featured__bg" aria-hidden="true" />
       <div className="pm-container">
         <div className="pm-featured__header">
-          <Heading id="pm-featured-title" title="Featured Products" />
+          <div className="pm-featured__heading">
+            <p className="pm-featured__eyebrow">Handpicked for You</p>
+            <h2 id="pm-featured-title" className="pm-featured__title">Featured Products</h2>
+            <p className="pm-featured__subtitle">
+              Explore our most-loved printing and branding products, ready to customise for your business.
+            </p>
+          </div>
           <div className="pm-featured__controls">
-            <button type="button" className="pm-featured__control" data-pm-prev aria-label="Previous products"><span aria-hidden="true">←</span></button>
-            <button type="button" className="pm-featured__control" data-pm-next aria-label="Next products"><span aria-hidden="true">→</span></button>
+            <button type="button" className="pm-featured__control" data-pm-prev aria-label="Previous products">
+              <span aria-hidden="true">←</span>
+            </button>
+            <button type="button" className="pm-featured__control" data-pm-next aria-label="Next products">
+              <span aria-hidden="true">→</span>
+            </button>
           </div>
         </div>
+
         <div className="pm-featured__rows">
           {rows.filter((r) => r.length).map((r, ri) => (
             <div key={ri} className="pm-featured__row">
-              <ul className="pm-featured__track" data-pm-row data-pm-direction="1" data-pm-delay={ri === 0 ? 0 : 600} tabIndex={0} role="group" aria-roledescription="carousel" aria-label={`Featured products, row ${ri + 1}`}>
+              <ul
+                className="pm-featured__track"
+                data-pm-row
+                data-pm-direction="1"
+                data-pm-delay={ri === 0 ? 0 : 600}
+                tabIndex={0}
+                role="group"
+                aria-roledescription="carousel"
+                aria-label={`Featured products, row ${ri + 1}`}
+              >
                 {r.map((p) => <ProductCard key={p.id} p={p} />)}
               </ul>
             </div>
           ))}
         </div>
-        <p className="pm-featured__hint">Swipe, drag or use the arrows to explore more products.</p>
+
+        <div className="pm-featured__footer">
+          <p className="pm-featured__hint">Swipe, drag or use the arrows to explore more products.</p>
+          <Link href="/shop" className="pm-featured__view-all">
+            View All Products <span aria-hidden="true">→</span>
+          </Link>
+        </div>
       </div>
     </section>
   );

@@ -14,8 +14,8 @@ export default function Preloader() {
 
   useEffect(() => {
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const minMs = reduce ? 300 : 2400; // minimum time so the animation always finishes
-    const maxMs = 8000; // safety net: never block the site longer than this
+    const minMs = reduce ? 300 : 2600; // Time for the blades + logo + text to finish
+    const maxMs = 8000;
     const root = document.documentElement;
     const timers: number[] = [];
 
@@ -83,27 +83,51 @@ export default function Preloader() {
 
       <div className="pm-preloader__bg" aria-hidden="true" />
 
-      <div className="pm-preloader__inner" aria-hidden="true">
-        <div className="pm-preloader__logo">
-          <Image
-            src="/images/printmacaw-logo.png"
-            alt=""
-            width={320}
-            height={110}
-            priority
-          />
-        </div>
-
-        <div className="pm-preloader__brand">
-          {BRAND.split('').map((ch, i) => (
-            <span
-              key={i}
-              className="pm-preloader__char"
-              style={{ ['--i' as string]: i }}
-            >
-              {ch === ' ' ? '\u00A0' : ch}
-            </span>
-          ))}
+      <div className="pm-preloader__inner">
+        {/* The Shape/Blade Assembly Animation */}
+        <div className="shape_container" aria-hidden="true">
+          <div className="logo_container">
+            <div className="shape">
+              <div className="blade_container blade_1_container">
+                <div className="blade_mask"><div className="blade_shape blade_1"></div></div>
+              </div>
+              <div className="blade_container blade_2_container">
+                <div className="blade_mask"><div className="blade_shape blade_2"></div></div>
+              </div>
+              <div className="blade_container blade_3_container">
+                <div className="blade_mask"><div className="blade_shape blade_3"></div></div>
+              </div>
+              <div className="blade_container blade_4_container">
+                <div className="blade_mask"><div className="blade_shape blade_4"></div></div>
+              </div>
+              
+              {/* The Actual Logo image fades in as the blades finish */}
+              <div className="pm-preloader__logo">
+                <Image
+                  src="/images/printmacaw-logo.png"
+                  alt=""
+                  width={320}
+                  height={110}
+                  priority
+                />
+              </div>
+            </div>
+            
+            {/* Word Reveal */}
+            <div className="word_container">
+              <div className="pm-preloader__brand">
+                {BRAND.split('').map((ch, i) => (
+                  <span
+                    key={i}
+                    className="pm-preloader__char"
+                    style={{ ['--i' as string]: i }}
+                  >
+                    {ch === ' ' ? '\u00A0' : ch}
+                  </span>
+                ))}
+              </div>
+            </div>
+          </div>
         </div>
 
         <p className="pm-preloader__tagline">{TAGLINE}</p>
