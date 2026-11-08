@@ -1,0 +1,299 @@
+[
+ {
+  "id": 16,
+  "slug": "mugs",
+  "name": "Mugs",
+  "parent": 65,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 19,
+  "slug": "tshirts",
+  "name": "Tshirts",
+  "parent": 64,
+  "description": "",
+  "image": "2026/04/POLO-TSHIRT-DEMO-MOCKUP.pdf-scaled.png",
+  "order": 0
+ },
+ {
+  "id": 41,
+  "slug": "hoodies",
+  "name": "Hoodies",
+  "parent": 64,
+  "description": "",
+  "image": "2026/11/Studio-Hoodie-Collection-Display.webp",
+  "order": 0
+ },
+ {
+  "id": 43,
+  "slug": "polo-t-shirt",
+  "name": "Polo T Shirt",
+  "parent": 64,
+  "description": "",
+  "image": "2026/11/Sporty-Polo-Shirt-Collection-Display.webp",
+  "order": 0
+ },
+ {
+  "id": 45,
+  "slug": "t-shirts-round-neck",
+  "name": "T shirts Round Neck",
+  "parent": 64,
+  "description": "",
+  "image": "2026/11/Minimalist-Mountain-T-Shirt-Showcase.webp",
+  "order": 0
+ },
+ {
+  "id": 46,
+  "slug": "scrub-set",
+  "name": "Scrub Set",
+  "parent": 64,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 47,
+  "slug": "jersey",
+  "name": "Jersey",
+  "parent": 64,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 48,
+  "slug": "aprons",
+  "name": "Aprons",
+  "parent": 64,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 50,
+  "slug": "safety-jackets",
+  "name": "Safety Jackets",
+  "parent": 64,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 51,
+  "slug": "backpacks",
+  "name": "Backpacks",
+  "parent": 65,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 52,
+  "slug": "water-bottles",
+  "name": "Water Bottles",
+  "parent": 65,
+  "description": "",
+  "image": "2026/11/Modern-Adventure-Bottle-Display.webp",
+  "order": 0
+ },
+ {
+  "id": 53,
+  "slug": "caps",
+  "name": "Caps",
+  "parent": 65,
+  "description": "",
+  "image": "2026/11/Outdoor-Adventure-Cap-Collection.webp",
+  "order": 0
+ },
+ {
+  "id": 55,
+  "slug": "eco-friendly",
+  "name": "Eco Friendly",
+  "parent": 67,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 56,
+  "slug": "flags",
+  "name": "Flags",
+  "parent": 66,
+  "description": "",
+  "image": "2026/11/Modern-Wave-Flags-Outside-Building.webp",
+  "order": 0
+ },
+ {
+  "id": 57,
+  "slug": "gifts",
+  "name": "Gifts",
+  "parent": 65,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 58,
+  "slug": "roll-up",
+  "name": "Roll Up",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Corporate-Branding-Exhibition-Lobby.webp",
+  "order": 0
+ },
+ {
+  "id": 59,
+  "slug": "notebook",
+  "name": "Notebook",
+  "parent": 65,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 60,
+  "slug": "jute-bags",
+  "name": "Jute Bags",
+  "parent": 65,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 61,
+  "slug": "business-cards",
+  "name": "Business Cards",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Modern-Teal-and-Navy-Business-Cards.webp",
+  "order": 0
+ },
+ {
+  "id": 62,
+  "slug": "premium-business-cards",
+  "name": "Business Cards Premium",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Luxury-Foil-Business-Card-Showcase.webp",
+  "order": 0
+ },
+ {
+  "id": 64,
+  "slug": "merchandise",
+  "name": "Merchandise",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Coordinated-Navy-and-Orange-Swag-Display.webp",
+  "order": 0
+ },
+ {
+  "id": 65,
+  "slug": "office-stationary",
+  "name": "Office Stationary",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Modern-Green-Corporate-Stationery-Flat-Lay.webp",
+  "order": 0
+ },
+ {
+  "id": 66,
+  "slug": "events",
+  "name": "Events",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Modern-Conference-Stage-Welcome-Setup.webp",
+  "order": 0
+ },
+ {
+  "id": 67,
+  "slug": "eco-friendly-items",
+  "name": "Eco Friendly items",
+  "parent": 0,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 68,
+  "slug": "signages",
+  "name": "Signages",
+  "parent": 0,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 69,
+  "slug": "kiosk",
+  "name": "Kiosk",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Modern-Smartphone-Promotion-Kiosk.webp",
+  "order": 0
+ },
+ {
+  "id": 71,
+  "slug": "pens",
+  "name": "Pens",
+  "parent": 65,
+  "description": "",
+  "image": null,
+  "order": 0
+ },
+ {
+  "id": 89,
+  "slug": "backdrops",
+  "name": "Backdrops",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Modern-Conference-Lobby-Event-Backdrop.webp",
+  "order": 0
+ },
+ {
+  "id": 103,
+  "slug": "exhibition-tent",
+  "name": "Exhibition Tent",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Elegant-Navy-Wave-Expo-Tent.webp",
+  "order": 0
+ },
+ {
+  "id": 104,
+  "slug": "pop-up",
+  "name": "Pop Up",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Explore-New-Horizons-Travel-Booth.webp",
+  "order": 0
+ },
+ {
+  "id": 105,
+  "slug": "flyers",
+  "name": "Flyers",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Modern-Flyer-Collection-on-Beige-Surface.webp",
+  "order": 0
+ },
+ {
+  "id": 106,
+  "slug": "shopping-bags",
+  "name": "Shopping bags",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Eco-Luxe-Shopping-Bag-Collection.webp",
+  "order": 0
+ },
+ {
+  "id": 107,
+  "slug": "paper-bags",
+  "name": "Paper Bags",
+  "parent": 0,
+  "description": "",
+  "image": "2026/11/Elegant-Boutique-Bag-Collection.webp",
+  "order": 0
+ }
+]

@@ -1,0 +1,831 @@
+
+/* =============================================================
+   PRINT MACAW — GLOBAL HEADER & NAVIGATION
+   Production CSS — Desktop, Tablet and Mobile
+   ============================================================= */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.pm-site {
+    overflow-x: clip;
+}
+
+/* =============================================================
+   1. ANNOUNCEMENT BAR
+   ============================================================= */
+
+.pm-announcement {
+    background: var(--pm-text);
+    color: #fff;
+    text-align: center;
+    padding: 8px 0;
+    font: 600 13px/1.3 var(--pm-font-body);
+}
+
+.pm-announcement p {
+    margin: 0;
+}
+
+/* =============================================================
+   2. HEADER SHELL
+   ============================================================= */
+
+.pm-header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid var(--pm-border);
+    box-shadow: var(--pm-sh-1);
+}
+
+.admin-bar .pm-header {
+    top: 32px;
+}
+
+@media (max-width: 782px) {
+    .admin-bar .pm-header {
+        top: 46px;
+    }
+}
+
+.pm-header-inner.pm-container {
+    max-width: 1600px;
+    padding-inline: 32px;
+}
+
+.pm-header-inner {
+    min-height: var(--pm-header-h);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    overflow: visible;
+}
+
+.pm-header-nav-wrap,
+.pm-primary-navigation,
+.pm-menu {
+    overflow: visible;
+}
+
+/* =============================================================
+   3. BRAND LOGO
+   ============================================================= */
+
+.pm-header-logo {
+    flex: none;
+    display: flex;
+    align-items: center;
+    min-width: 0;
+}
+
+.pm-site-logo {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    line-height: 0;
+    text-decoration: none;
+}
+
+.pm-header-logo-image {
+    display: block;
+    width: 160px;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+/* =============================================================
+   4. DESKTOP NAVIGATION
+   ============================================================= */
+
+.pm-header-nav-wrap {
+    flex: none;
+}
+
+.pm-primary-navigation {
+    display: flex;
+    align-items: center;
+}
+
+.pm-menu {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.pm-menu a {
+    display: block;
+    padding: 12px 0;
+    color: var(--pm-text);
+    font: 600 15px/1 var(--pm-font-head);
+    text-decoration: none;
+    transition: color .15s ease;
+}
+
+.pm-menu a:hover,
+.pm-menu .current-menu-item > a {
+    color: var(--pm-teal-600);
+}
+
+.pm-menu a:hover .pm-menu-label,
+.pm-menu .current-menu-item > a .pm-menu-label {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 8px;
+}
+
+@media (min-width: 1024px) {
+    .pm-submenu-toggle {
+        display: none;
+    }
+}
+
+/* Hide mobile-only elements on desktop */
+
+.pm-menu-toggle,
+.pm-drawer,
+.pm-drawer-overlay,
+.pm-mobile-search-row {
+    display: none;
+}
+
+/* =============================================================
+   5. SEARCH BAR
+   ============================================================= */
+
+.pm-header-search {
+    flex: 1 1 auto;
+    min-width: 0;
+    margin: 0;
+}
+
+.pm-product-search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 46px;
+    background: #f9f9f9;
+    border: 1px solid var(--pm-border);
+    border-radius: 999px;
+    transition: all .2s ease;
+}
+
+.pm-product-search:focus-within {
+    background: #fff;
+    border-color: var(--pm-teal-600);
+    box-shadow: 0 0 0 4px var(--pm-teal-50);
+}
+
+.pm-product-search__input {
+    flex: 1;
+    height: 100%;
+    min-width: 0;
+    padding: 0 16px 0 24px;
+    border: 0;
+    background: transparent;
+    font: 400 15px var(--pm-font-body);
+    outline: none;
+}
+
+.pm-product-search__submit {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 100%;
+    border: 0;
+    background: transparent;
+    color: var(--pm-text-2);
+    cursor: pointer;
+    border-radius: 0 999px 999px 0;
+}
+
+.pm-product-search__submit:hover {
+    background: var(--pm-teal-50);
+    color: var(--pm-teal-600);
+}
+
+/* =============================================================
+   6. ACCOUNT AND CART
+   ============================================================= */
+
+.pm-header-actions {
+    flex: none;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-left: auto;
+}
+
+.pm-header-account,
+.pm-header-cart {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: none;
+    box-sizing: border-box;
+    width: 40px;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    line-height: 0;
+    font-size: 0;
+    border-radius: var(--pm-r-md);
+    color: var(--pm-text);
+    text-decoration: none;
+    transition: background-color .15s, color .15s;
+}
+
+.pm-header-account:hover,
+.pm-header-cart:hover {
+    background: var(--pm-bg-2);
+    color: var(--pm-teal-600);
+}
+
+.pm-header-account svg,
+.pm-header-cart svg {
+    display: block;
+    flex: none;
+    width: 22px;
+    height: 22px;
+    margin: 0;
+}
+
+.pm-cart-count {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    min-width: 16px;
+    height: 16px;
+    padding: 0 4px;
+    border-radius: 8px;
+    background: var(--pm-teal-600);
+    color: #fff;
+    font: 600 10px/16px var(--pm-font-body);
+    text-align: center;
+    pointer-events: none;
+}
+
+.pm-cart-count.is-empty {
+    display: none;
+}
+
+/* =============================================================
+   7. SHOP MEGA MENU — DESKTOP
+   Compact two-column category card
+   ============================================================= */
+
+@media (min-width: 1024px) {
+
+    .pm-menu-item--mega,
+    .pm-menu-item--mega.pm-menu-item--toggleable {
+        position: relative;
+    }
+
+    /* Hover bridge */
+
+    .pm-menu-item--mega > a {
+        position: relative;
+    }
+
+    .pm-menu-item--mega > a::before {
+        content: "";
+        position: absolute;
+        left: -12px;
+        right: -12px;
+        top: 100%;
+        height: 28px;
+        pointer-events: none;
+        z-index: 999;
+    }
+
+    .pm-menu-item--mega:hover > a::before {
+        pointer-events: auto;
+    }
+
+    /* Dropdown */
+
+    .pm-mega {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 560px;
+        max-width: calc(100vw - 48px);
+        padding-top: 8px;
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transform: translateY(6px);
+        transition:
+            opacity .15s ease,
+            transform .15s ease,
+            visibility .15s ease;
+        z-index: 9999;
+    }
+
+    .pm-menu-item--mega:hover > .pm-mega,
+    .pm-menu-item--mega:focus-within > .pm-mega {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        transform: translateY(0);
+    }
+
+    .pm-mega-inner {
+        max-height: 340px;
+        overflow-y: auto;
+        padding: 8px 16px;
+        background: #fff;
+        border: 1px solid var(--pm-border);
+        border-radius: 12px;
+        box-shadow: 0 10px 28px rgba(0, 0, 0, .12);
+    }
+
+    .pm-mega-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        column-gap: 24px;
+        align-items: start;
+    }
+
+    .pm-menu .pm-mega-cat-item {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 12px 8px;
+        border-bottom: 1px solid var(--pm-border);
+        border-radius: 6px;
+        color: var(--pm-text);
+        font: 600 14px/1.3 var(--pm-font-body);
+        text-decoration: none;
+        transition: background-color .15s, color .15s;
+    }
+
+    .pm-menu .pm-mega-cat-item:hover {
+        background: var(--pm-bg-2);
+        color: var(--pm-teal-600);
+    }
+
+    .pm-mega-cat-icon {
+        flex: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 24px;
+        color: var(--pm-text-2);
+    }
+
+    .pm-mega-cat-name {
+        flex: 1;
+    }
+
+    .pm-mega-cat-item .pm-chevron {
+        flex: none;
+        color: var(--pm-text-2);
+    }
+}
+
+/* =============================================================
+   8. NORMAL DESKTOP SUBMENUS
+   ============================================================= */
+
+@media (min-width: 1024px) {
+
+    .pm-menu-item--toggleable:not(.pm-menu-item--mega) {
+        position: relative;
+    }
+
+    .pm-menu .sub-menu {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        min-width: 250px;
+        margin: 0;
+        padding: 8px;
+        list-style: none;
+        background: #fff;
+        border: 1px solid var(--pm-border);
+        border-radius: var(--pm-r-lg);
+        box-shadow: var(--pm-sh-3);
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity .15s, visibility .15s;
+        z-index: 95;
+    }
+
+    .pm-menu .menu-item-has-children:hover > .sub-menu,
+    .pm-menu .menu-item-has-children:focus-within > .sub-menu {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .pm-menu .sub-menu li + li {
+        border-top: 1px solid var(--pm-border);
+    }
+
+    .pm-menu .sub-menu a {
+        padding: 10px 12px;
+        font-size: 14px;
+    }
+}
+
+/* =============================================================
+   9. MOBILE AND TABLET
+   ============================================================= */
+
+@media (max-width: 1023px) {
+
+    .pm-header {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+    }
+
+    .pm-header-inner {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: var(--pm-header-h);
+    }
+
+    .pm-header-inner.pm-container {
+        padding-inline: 8px;
+    }
+
+    /* Hamburger */
+
+    .pm-header-nav-wrap {
+        order: 1;
+        flex: none;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .pm-menu-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        padding: 0;
+        margin-left: 0;
+        border: 0;
+        background: transparent;
+        color: var(--pm-text);
+        cursor: pointer;
+    }
+
+    .pm-menu-toggle svg {
+        width: 22px;
+        height: 22px;
+    }
+
+    /* Centered logo */
+
+    .pm-header-logo {
+        order: 2;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        margin: 0;
+    }
+
+    .pm-header-logo-image {
+        width: 135px;
+    }
+
+    /* Account and cart */
+
+    .pm-header-actions {
+        order: 3;
+        flex: none;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        margin-left: auto;
+        gap: 4px;
+    }
+
+    .pm-header-account,
+    .pm-header-cart {
+        width: 40px;
+        height: 40px;
+    }
+
+    .pm-header-account svg,
+    .pm-header-cart svg {
+        width: 22px;
+        height: 22px;
+    }
+
+    /* Search */
+
+    .pm-header-search {
+        display: none;
+    }
+
+    .pm-mobile-search-row {
+        display: block;
+        background: #fff;
+        border-top: 1px solid var(--pm-border);
+        padding: 12px 16px;
+    }
+
+    .pm-mobile-search-row .pm-container {
+        padding-inline: 0;
+    }
+
+    .pm-mobile-search-row .pm-product-search {
+        height: 44px;
+    }
+
+    .pm-mobile-search-row .pm-product-search__input {
+        font-size: 16px;
+    }
+
+    /* Hide desktop menu */
+
+    .pm-primary-navigation > .pm-menu {
+        display: none;
+    }
+
+    .pm-mega {
+        display: none !important;
+    }
+
+    /* Drawer overlay */
+
+    .pm-drawer-overlay {
+        display: block;
+        position: fixed;
+        inset: 0;
+        background: rgba(23, 23, 23, .6);
+        z-index: 99999;
+        backdrop-filter: blur(4px);
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity .3s, visibility .3s;
+        cursor: pointer;
+    }
+
+    .pm-primary-navigation.is-open .pm-drawer-overlay {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    /* Drawer shell */
+
+    .pm-drawer {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        background: #fff;
+        box-shadow: var(--pm-sh-3);
+        transform: translateX(-100%);
+        transition: transform .3s cubic-bezier(0.4, 0, 0.2, 1);
+        z-index: 100000;
+        overflow: hidden;
+    }
+
+    .pm-primary-navigation.is-open .pm-drawer {
+        transform: translateX(0);
+    }
+
+    .pm-drawer-scrollable {
+        flex: 1;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Drawer header */
+
+    .pm-drawer-head {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 16px;
+        background: #fff;
+        border-bottom: 1px solid var(--pm-border);
+    }
+
+    .pm-drawer-head .pm-product-search {
+        flex: 1;
+        height: 44px;
+        background: var(--pm-bg-2);
+        border: 0;
+    }
+
+    .pm-drawer-head .pm-product-search__input {
+        background: transparent;
+    }
+
+    .pm-drawer-close {
+        flex: none;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        border-radius: var(--pm-r-md);
+        background: var(--pm-text);
+        color: #fff;
+        cursor: pointer;
+        border: 0;
+    }
+
+    .pm-drawer-close:hover {
+        background: var(--pm-teal-600);
+    }
+
+    /* Drawer promotional links */
+
+    .pm-drawer-promos {
+        display: flex;
+        gap: 8px;
+        padding: 12px 16px;
+        background: var(--pm-bg-2);
+        border-bottom: 1px solid var(--pm-border);
+    }
+
+    .pm-promo-btn {
+        flex: 1;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        height: 40px;
+        border-radius: var(--pm-r-md);
+        font: 700 13px var(--pm-font-head);
+        text-decoration: none;
+        border: 2px solid transparent;
+    }
+
+    .pm-promo-btn--dark {
+        background: var(--pm-text);
+        color: #fff;
+    }
+
+    .pm-promo-btn--green {
+        background: #00A63E;
+        color: #fff;
+    }
+
+    /* Mobile category links */
+
+    .pm-mobile-cats {
+        display: flex;
+        flex-direction: column;
+        padding: 0 16px;
+    }
+
+    .pm-mobile-cat-item {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 16px 0;
+        border-bottom: 1px solid var(--pm-border);
+        color: var(--pm-text);
+        text-decoration: none;
+    }
+
+    .pm-mobile-cat-icon {
+        flex: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 24px;
+        color: var(--pm-text-2);
+    }
+
+    .pm-mobile-cat-name {
+        flex: 1;
+        font: 600 15px var(--pm-font-body);
+    }
+
+    .pm-chevron {
+        flex: none;
+        color: var(--pm-text-2);
+    }
+
+    /* Company details */
+
+    .pm-drawer-company {
+        padding: 24px 16px;
+        background: var(--pm-bg-2);
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        border-top: 1px solid var(--pm-border);
+    }
+
+    .pm-company-row {
+        display: flex;
+        gap: 12px;
+        font: 400 13px/1.5 var(--pm-font-body);
+        color: var(--pm-text-2);
+    }
+
+    .pm-company-row svg {
+        flex: none;
+        color: var(--pm-text);
+        margin-top: 2px;
+    }
+
+    .pm-company-row strong {
+        color: var(--pm-text);
+        display: block;
+        margin-bottom: 2px;
+    }
+
+    /* Drawer bottom actions */
+
+    .pm-drawer-actions {
+        flex: none;
+        display: flex;
+        gap: 12px;
+        padding: 16px;
+        background: #fff;
+        border-top: 1px solid var(--pm-border);
+        box-shadow: 0 -4px 12px rgba(0, 0, 0, .05);
+    }
+
+    .pm-action-btn {
+        flex: 1;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        height: 48px;
+        border-radius: var(--pm-r-md);
+        font: 700 14px var(--pm-font-head);
+        text-decoration: none;
+        border: 2px solid transparent;
+    }
+
+    .pm-action-btn--outline {
+        border-color: var(--pm-border-strong);
+        color: var(--pm-text);
+        background: #fff;
+    }
+
+    .pm-action-btn--dark {
+        background: var(--pm-text);
+        color: #fff;
+    }
+
+    /* Prevent page scrolling when drawer is open */
+
+    body.pm-drawer-open {
+        overflow: hidden;
+    }
+}
+
+/* =============================================================
+   10. SMALL MOBILE
+   ============================================================= */
+
+@media (max-width: 420px) {
+
+    .pm-header-logo-image {
+        width: 125px;
+    }
+
+    .pm-header-inner.pm-container {
+        padding-inline: 8px;
+    }
+}
+
+/* =============================================================
+   11. WORDPRESS ADMIN BAR
+   ============================================================= */
+
+@media (max-width: 600px) {
+    .admin-bar .pm-header {
+        top: 0;
+    }
+}

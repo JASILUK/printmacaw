@@ -1,0 +1,3453 @@
+[
+ {
+  "id": 161,
+  "slug": "cotton-hoodie",
+  "name": "Cotton Hoodie",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Soft Cotton Fabric, Warm &amp; Comfortable.</ul>\r\n<ul>Regular Fit, True to Size.</ul>\r\n<ul>Breathable &amp; Durable for Daily Wear.</ul>\r\n<ul>Easy Machine Wash Care.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Neck : Hooded with Drawstrings</ul>\r\n<ul>Content : 100% Cotton</ul>\r\n<ul>Unisex : Men &amp; Women</ul>\r\n<ul>Fabric : Cotton</ul>\r\n<ul>Fit : Regular Fit</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "45",
+  "regular": null,
+  "sale": null,
+  "sku": "100",
+  "stock": "instock",
+  "image": "2026/04/5-1-scaled.jpg",
+  "gallery": [
+   "2026/04/6-2-scaled.jpg",
+   "2026/04/23-scaled.jpg",
+   "2026/04/24-scaled.jpg",
+   "2026/04/21-scaled.jpg",
+   "2026/04/22-scaled.jpg"
+  ],
+  "cats": [
+   19,
+   41,
+   64
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Size",
+    "slug": "pa_size",
+    "options": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL",
+     "XXXL"
+    ]
+   },
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Sky Blue",
+     "Blue",
+     "Light Green",
+     "Green",
+     "Purple",
+     "Red",
+     "White",
+     "Yellow",
+     "Orange",
+     "Pink",
+     "Brown"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 3901,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "blue"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/7-1-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3902,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "green"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/15-1-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3903,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "black"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/21-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3904,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "white"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/23-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3915,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "yellow"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/3-1-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3916,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "sky-blue"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 3917,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "royal-blue"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/27-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3918,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "red"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/13-1-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3919,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "purple"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/1-1-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3920,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "orange"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/9-1-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 3921,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "light-green"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/25-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 5613,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "pink"
+    },
+    "price": "45",
+    "regular": "45",
+    "sale": null,
+    "image": "2026/04/11-1-scaled.jpg",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-04-13 07:53:03"
+ },
+ {
+  "id": 167,
+  "slug": "cotton-polo-tshirt",
+  "name": "Cotton Polo T Shirt",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made with 100% Cotton for Comfort.</ul>\r\n<ul>Classic Polo Collar with Buttons.</ul>\r\n<ul>Breathable &amp; Durable for Everyday Wear.</ul>\r\n<ul>Easy to Wash and Maintain.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Neck : Polo Collar with Buttons</ul>\r\n<ul>Content : 100% Cotton</ul>\r\n<ul>Unisex : Men &amp; Women</ul>\r\n<ul>Fabric : Cotton</ul>\r\n<ul>Fit : Regular Fit</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/3-scaled.png",
+  "gallery": [
+   "2026/04/POLO-TSHIRT-DEMO-MOCKUP.pdf-scaled.png",
+   "2026/04/10-scaled.jpg",
+   "2026/04/13-scaled.jpg",
+   "2026/04/14-scaled.jpg",
+   "2026/04/11-scaled.jpg"
+  ],
+  "cats": [
+   19,
+   43,
+   64
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Size",
+    "slug": "pa_size",
+    "options": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL",
+     "XXXL"
+    ]
+   },
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Sky Blue",
+     "Blue",
+     "Light Green",
+     "Green",
+     "Purple",
+     "Red",
+     "White",
+     "Yellow",
+     "Orange",
+     "Grey",
+     "Pink"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 3990,
+    "attributes": {
+     "pa_color": "white",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/27-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3991,
+    "attributes": {
+     "pa_color": "sky-blue",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/11-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3992,
+    "attributes": {
+     "pa_color": "royal-blue",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/9-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3993,
+    "attributes": {
+     "pa_color": "red",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 3994,
+    "attributes": {
+     "pa_color": "purple",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/23-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3995,
+    "attributes": {
+     "pa_color": "orange",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/17-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3996,
+    "attributes": {
+     "pa_color": "light-green",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/13-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3997,
+    "attributes": {
+     "pa_color": "grey",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/19-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3998,
+    "attributes": {
+     "pa_color": "yellow",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/15-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 3999,
+    "attributes": {
+     "pa_color": "green",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/25-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4000,
+    "attributes": {
+     "pa_color": "blue",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/21-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4001,
+    "attributes": {
+     "pa_color": "black",
+     "pa_size": ""
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5536,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "pink"
+    },
+    "price": "30",
+    "regular": "30",
+    "sale": null,
+    "image": "2026/04/5-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-04-13 07:53:03"
+ },
+ {
+  "id": 168,
+  "slug": "dry-cool-polo-tshirt",
+  "name": "Dry Cool Polo T Shirt",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Quick-Dry Fabric to Keep You Fresh.</ul>\r\n<ul>Lightweight &amp; Breathable for Comfort.</ul>\r\n<ul>Moisture-Wicking for Active Wear.</ul>\r\n<ul>Easy Machine Wash Care.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Neck : Polo Collar with Buttons</ul>\r\n<ul>Content : Polyester Blend</ul>\r\n<ul>Unisex : Men &amp; Women</ul>\r\n<ul>Fabric : Dry Cool Polyester</ul>\r\n<ul>Fit : Regular Fit</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "38",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/03/17-scaled.png",
+  "gallery": [
+   "2026/03/18-scaled.png",
+   "2026/03/27-scaled.png"
+  ],
+  "cats": [
+   19,
+   43,
+   64
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Size",
+    "slug": "pa_size",
+    "options": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL",
+     "XXXL"
+    ]
+   },
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Sky Blue",
+     "Light Green",
+     "Green",
+     "Purple",
+     "Red",
+     "Yellow",
+     "Orange"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 4146,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "light-green"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/7-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4147,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "orange"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/15-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4148,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "purple"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/25-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4149,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "red"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/5-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4150,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "royal-blue"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 4151,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "sky-blue"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/11-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4152,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "yellow"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/21-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4153,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "black"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/9-1-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4154,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "green"
+    },
+    "price": "38",
+    "regular": "38",
+    "sale": null,
+    "image": "2026/03/23-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-04-13 07:53:03"
+ },
+ {
+  "id": 171,
+  "slug": "mesh-polo-tshirt",
+  "name": "Mesh Polo T shirt",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Breathable Mesh Fabric for Airflow.</ul>\r\n<ul>Lightweight &amp; Comfortable Fit.</ul>\r\n<ul>Quick-Dry &amp; Durable.</ul>\r\n<ul>Easy to Wash &amp; Maintain.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Neck : Polo Collar with Buttons</ul>\r\n<ul>Content : Mesh Polyester</ul>\r\n<ul>Unisex : Men &amp; Women</ul>\r\n<ul>Fabric : Mesh Polyester</ul>\r\n<ul>Fit : Regular Fit</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "32",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/19-scaled.png",
+  "gallery": [
+   "2026/04/20-scaled.png",
+   "2026/04/29-scaled.png",
+   "2026/04/POLO-TSHIRT-DEMO-MOCKUP.pdf-scaled.png",
+   "2026/04/POLO-TSHIRT-MODELING.pdf-scaled.png",
+   "2026/04/1-scaled.jpg",
+   "2026/04/2-scaled.jpg"
+  ],
+  "cats": [
+   19,
+   43,
+   64
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Size",
+    "slug": "pa_size",
+    "options": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL",
+     "XXXL"
+    ]
+   },
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Sky Blue",
+     "Blue",
+     "Light Green",
+     "Green",
+     "Purple",
+     "Red",
+     "White",
+     "Yellow",
+     "Orange",
+     "Grey"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 4187,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "yellow"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/03/7-2-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4188,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "white"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/04/11-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4189,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "sky-blue"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/04/15-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4190,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "red"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/03/1-2-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4191,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "purple"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/04/21-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4192,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "orange"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/04/27-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4193,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "light-green"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 4194,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "grey"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/03/3-2-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4195,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "green"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/04/17-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4196,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "blue"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/03/9-2-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4197,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "black"
+    },
+    "price": "32",
+    "regular": "32",
+    "sale": "",
+    "image": "2026/04/13-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-04-13 07:53:03"
+ },
+ {
+  "id": 4339,
+  "slug": "round-neck-t-shirt-mesh",
+  "name": "Round Neck T Shirt Mesh",
+  "description": "<h3 data-section-id=\"10etosb\" data-start=\"175\" data-end=\"192\"><span role=\"text\"><strong data-start=\"179\" data-end=\"192\">FEATURES:</strong></span></h3>\r\n<ul data-start=\"194\" data-end=\"422\">\r\n \t<li data-section-id=\"ebwg85\" data-start=\"194\" data-end=\"242\">Lightweight Mesh Fabric for enhanced airflow</li>\r\n \t<li data-section-id=\"b68ceq\" data-start=\"243\" data-end=\"285\">Breathable &amp; Moisture-Wicking material</li>\r\n \t<li data-section-id=\"ym25em\" data-start=\"286\" data-end=\"335\">Classic Round Neck design for a timeless look</li>\r\n \t<li data-section-id=\"4k9xzj\" data-start=\"336\" data-end=\"378\">Quick-Dry fabric, ideal for active use</li>\r\n \t<li data-section-id=\"9pkecn\" data-start=\"379\" data-end=\"422\">Durable stitching for long-lasting wear</li>\r\n</ul>\r\n<h3 data-section-id=\"1aige7u\" data-start=\"429\" data-end=\"449\"><span role=\"text\"><strong data-start=\"433\" data-end=\"449\">DESCRIPTION:</strong></span></h3>\r\n<ul>\r\n \t<li data-start=\"451\" data-end=\"582\"><strong data-start=\"451\" data-end=\"460\">Neck:</strong> Round Neck</li>\r\n \t<li data-start=\"451\" data-end=\"582\"><strong data-start=\"474\" data-end=\"486\">Content:</strong> Polyester Mesh</li>\r\n \t<li data-start=\"451\" data-end=\"582\"><strong data-start=\"504\" data-end=\"515\">Unisex:</strong> Men &amp; Women</li>\r\n \t<li data-start=\"451\" data-end=\"582\"><strong data-start=\"530\" data-end=\"541\">Fabric:</strong> Breathable Mesh</li>\r\n \t<li data-start=\"451\" data-end=\"582\"><strong data-start=\"560\" data-end=\"568\" data-is-only-node=\"\">Fit:</strong> Regular Fit</li>\r\n</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "22",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/34-scaled.jpg",
+  "gallery": [],
+  "cats": [
+   19,
+   45,
+   64
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Size",
+    "slug": "pa_size",
+    "options": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL",
+     "XXXL"
+    ]
+   },
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Sky Blue",
+     "Light Green",
+     "Green",
+     "Purple",
+     "White",
+     "Yellow",
+     "Orange"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 4340,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "black"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/37-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4342,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "green"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/31-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4344,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "light-green"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/40-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4345,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "orange"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/32-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4346,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "purple"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/33-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4347,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "royal-blue"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/38-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4348,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "sky-blue"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/39-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4349,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "white"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/36-scaled.jpg",
+    "stock": "instock"
+   },
+   {
+    "id": 4350,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "yellow"
+    },
+    "price": "22",
+    "regular": "22",
+    "sale": "",
+    "image": "2026/04/35-scaled.jpg",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-08-08 09:59:46"
+ },
+ {
+  "id": 4614,
+  "slug": "water-bottles",
+  "name": "Water Bottles",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Double-Wall Vacuum Insulation.</ul>\r\n<ul>Keeps Drinks Hot or Cold for 12+ Hours.</ul>\r\n<ul>Leak-Proof &amp; Durable.</ul>\r\n<ul>Travel-Friendly Design.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Vacuum Bottle</ul>\r\n<ul>Material : Stainless Steel</ul>\r\n<ul>Capacity : 500ml / 750ml / 1000ml</ul>\r\n<ul>Use : Outdoor, Office, Gym</ul>\r\n<ul>Gender : Unisex</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "28",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/164.png",
+  "gallery": [
+   "2025/08/167.png"
+  ],
+  "cats": [
+   52
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Blue",
+     "Green",
+     "Red",
+     "White"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 4616,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "blue"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/08/165.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4617,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "black"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 4618,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "green"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/08/166.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4619,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "white"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/08/163.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4622,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "red"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/08/168.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-08-10 09:39:50"
+ },
+ {
+  "id": 4626,
+  "slug": "water-bottles-stainless-steel",
+  "name": "Water Bottles Stainless Steel",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made of Premium Stainless Steel.</ul>\r\n<ul>Leak-Proof &amp; Durable.</ul>\r\n<ul>Keeps Beverages Hot/Cold for Hours.</ul>\r\n<ul>Reusable &amp; Eco-Friendly.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Bottle</ul>\r\n<ul>Material : Stainless Steel</ul>\r\n<ul>Capacity : 500ml / 750ml / 1000ml</ul>\r\n<ul>Use : Office, School, Travel</ul>\r\n<ul>Gender : Unisex</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/171.png",
+  "gallery": [
+   "2025/08/172.png"
+  ],
+  "cats": [
+   52
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Blue",
+     "Green",
+     "Red",
+     "White"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 4628,
+    "attributes": {
+     "pa_color": "black"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2025/08/170.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4630,
+    "attributes": {
+     "pa_color": "white"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2025/08/169.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-08-10 09:48:27"
+ },
+ {
+  "id": 4635,
+  "slug": "caps",
+  "name": "Caps",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made of High-Quality Cotton/Polyester.</ul>\r\n<ul>Adjustable Strap for Comfortable Fit.</ul>\r\n<ul>Durable &amp; Lightweight.</ul>\r\n<ul>Breathable Fabric for Daily Use.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Cap</ul>\r\n<ul>Material : Cotton / Polyester</ul>\r\n<ul>Size : Free Size Adjustable</ul>\r\n<ul>Gender : Unisex</ul>\r\n<ul>Use : Casual, Outdoor, Events</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/CAP-16-scaled.png",
+  "gallery": [
+   "2026/04/CAP-12-scaled.png",
+   "2026/04/CAP-16-scaled.png",
+   "2026/04/CAP-06-scaled.png",
+   "2026/04/CAP-04-scaled.png",
+   "2026/04/CAP-02-scaled.png",
+   "2026/04/CAP-22-scaled.png"
+  ],
+  "cats": [
+   53
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Blue",
+     "Light Green",
+     "Green",
+     "Purple",
+     "Red",
+     "White",
+     "Yellow",
+     "Orange",
+     "Pink",
+     "Brown"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 4636,
+    "attributes": {
+     "pa_color": "blue"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-19-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4639,
+    "attributes": {
+     "pa_color": "white"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-01-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 4640,
+    "attributes": {
+     "pa_color": "red"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-05-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5700,
+    "attributes": {
+     "pa_color": "yellow"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-09-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5701,
+    "attributes": {
+     "pa_color": "royal-blue"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-15-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5702,
+    "attributes": {
+     "pa_color": "purple"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-13-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5703,
+    "attributes": {
+     "pa_color": "pink"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-11-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5704,
+    "attributes": {
+     "pa_color": "orange"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-07-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5705,
+    "attributes": {
+     "pa_color": "light-green"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-21-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5706,
+    "attributes": {
+     "pa_color": "green"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-17-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5707,
+    "attributes": {
+     "pa_color": "brown"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-23-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5708,
+    "attributes": {
+     "pa_color": "black"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2026/04/CAP-03-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-08-10 10:09:18"
+ },
+ {
+  "id": 4824,
+  "slug": "blade-flags",
+  "name": "Blade Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Blade-Flags.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:42:56"
+ },
+ {
+  "id": 4826,
+  "slug": "conference-flags",
+  "name": "Conference Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "45",
+  "regular": "45",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/214.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:50:41"
+ },
+ {
+  "id": 4827,
+  "slug": "custom-printed-body-flags",
+  "name": "Custom Printed Body Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "45",
+  "regular": "45",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/216.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:50:44"
+ },
+ {
+  "id": 4828,
+  "slug": "custom-sail-flags",
+  "name": "Custom Sail Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "32",
+  "regular": "32",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/215.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:50:47"
+ },
+ {
+  "id": 4829,
+  "slug": "festival-flags-in-dubai",
+  "name": "Festival Flags in Dubai",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/210.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:50:51"
+ },
+ {
+  "id": 4831,
+  "slug": "finish-line-flag",
+  "name": "Finish Line Flag",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/211.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:53:28"
+ },
+ {
+  "id": 4832,
+  "slug": "l-shaped-flags",
+  "name": "L Shaped Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/212.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:53:31"
+ },
+ {
+  "id": 4833,
+  "slug": "table-flags",
+  "name": "Table Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "28",
+  "regular": "28",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/213.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:53:34"
+ },
+ {
+  "id": 4834,
+  "slug": "teardrop-flags",
+  "name": "Teardrop Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Teardrop-Flags.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:53:38"
+ },
+ {
+  "id": 4835,
+  "slug": "telescopic-flags",
+  "name": "Telescopic Flags",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Made from High-Quality Polyester Fabric.</ul>\r\n<ul>Durable &amp; Weather-Resistant.</ul>\r\n<ul>Bright &amp; Long-Lasting Colors.</ul>\r\n<ul>Lightweight and Easy to Mount.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Type : Flag</ul>\r\n<ul>Material : Polyester</ul>\r\n<ul>Use : Events, Offices, Decoration</ul>\r\n<ul>Size : Customizable</ul>\r\n<ul>Fit : Standard</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "38",
+  "regular": "38",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Telescopic-Flags.png",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 00:53:41"
+ },
+ {
+  "id": 4939,
+  "slug": "art-paper-400gsm-without-lamination-2",
+  "name": "Art Paper 400gsm (Without Lamination)",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Premium Art Paper with 400gsm Thickness.</ul>\r\n<ul>Smooth Surface for High-Quality Printing.</ul>\r\n<ul>Durable &amp; Professional Look.</ul>\r\n<ul>Ideal for Standard Business Cards.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Lamination : None</ul>\r\n<ul>Finish : Smooth &amp; Matte-Like Texture</ul>\r\n<ul>Design : Standard / Customizable</ul>\r\n<ul>Use : Business, Corporate &amp; Personal Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Art-Paper-400gsm-Without-Lamination.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 21:02:31"
+ },
+ {
+  "id": 4940,
+  "slug": "custom-die-cut-matt-lamination-400gsm",
+  "name": "Custom Die Cut Matt Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Unique Die Cut Shapes for Custom Branding.</ul>\r\n<ul>Available with Matt, Spot UV &amp; Gold Foil Effects.</ul>\r\n<ul>Durable Premium 400gsm Quality.</ul>\r\n<ul>Stand Out with Creative Card Designs.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Finish Options : Matt / Spot UV / Gold Foil</ul>\r\n<ul>Design : Custom Die Cut Shapes</ul>\r\n<ul>Packaging : Standard / Bulk</ul>\r\n<ul>Use : Premium, Luxury &amp; Event-Specific Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Custom-Die-Cut-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 21:02:33"
+ },
+ {
+  "id": 4941,
+  "slug": "custom-die-cut-gold-foil-spot-uv-matt-lamination-400-gsm",
+  "name": "Custom Die Cut Gold Foil Spot UV Matt Lamination 400 gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Unique Die Cut Shapes for Custom Branding.</ul>\r\n<ul>Available with Matt, Spot UV &amp; Gold Foil Effects.</ul>\r\n<ul>Durable Premium 400gsm Quality.</ul>\r\n<ul>Stand Out with Creative Card Designs.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Finish Options : Matt / Spot UV / Gold Foil</ul>\r\n<ul>Design : Custom Die Cut Shapes</ul>\r\n<ul>Packaging : Standard / Bulk</ul>\r\n<ul>Use : Premium, Luxury &amp; Event-Specific Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": "50",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Custom-Die-Cut-Gold-Foil-Spot-UV-Matt-Lamination-400-gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 21:02:37"
+ },
+ {
+  "id": 4942,
+  "slug": "custom-die-cut-spot-uv-matt-lamination-400gsm-2",
+  "name": "Custom Die Cut Spot UV Matt Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Unique Die Cut Shapes for Custom Branding.</ul>\r\n<ul>Available with Matt, Spot UV &amp; Gold Foil Effects.</ul>\r\n<ul>Durable Premium 400gsm Quality.</ul>\r\n<ul>Stand Out with Creative Card Designs.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Finish Options : Matt / Spot UV / Gold Foil</ul>\r\n<ul>Design : Custom Die Cut Shapes</ul>\r\n<ul>Packaging : Standard / Bulk</ul>\r\n<ul>Use : Premium, Luxury &amp; Event-Specific Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "45",
+  "regular": "45",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Custom-Die-Cut-Spot-UV-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 21:02:46"
+ },
+ {
+  "id": 4943,
+  "slug": "glossy-lamination-400gsm-2",
+  "name": "Glossy Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>High-Gloss Finish for Vibrant Colors.</ul>\r\n<ul>Protective Lamination Increases Durability.</ul>\r\n<ul>400gsm Thick Premium Quality Paper.</ul>\r\n<ul>Professional Look for Business Branding.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Lamination : Glossy</ul>\r\n<ul>Finish : Smooth &amp; Reflective</ul>\r\n<ul>Design : Standard / Customizable</ul>\r\n<ul>Use : Business, Corporate &amp; Marketing</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Glossy-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-24 21:02:50"
+ },
+ {
+  "id": 4944,
+  "slug": "gold-foil-matt-lamination-400gsm-2",
+  "name": "Gold Foil Matt Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Elegant Gold Foil Printing for Luxury Appeal.</ul>\r\n<ul>Matt Lamination for Smooth Finish.</ul>\r\n<ul>Premium 400gsm Thickness for Durability.</ul>\r\n<ul>Perfect for High-End Corporate Branding.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Lamination : Matt</ul>\r\n<ul>Special Effect : Gold Foil Stamping</ul>\r\n<ul>Finish : Matte with Metallic Accents</ul>\r\n<ul>Use : Luxury, Corporate &amp; Professional Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Gold-Foil-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:19:36"
+ },
+ {
+  "id": 4945,
+  "slug": "gold-foil-spot-uv-matt-lamination-400gsm-2",
+  "name": "Gold Foil Spot UV Matt Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Combination of Gold Foil &amp; Spot UV.</ul>\r\n<ul>Matt Lamination with Gloss Highlights.</ul>\r\n<ul>Durable 400gsm Premium Paper.</ul>\r\n<ul>Ideal for Premium Corporate Cards.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Lamination : Matt</ul>\r\n<ul>Special Effect : Gold Foil + Spot UV</ul>\r\n<ul>Finish : Gloss Highlights on Matte Base</ul>\r\n<ul>Use : Branding, Luxury &amp; Professional Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Gold-Foil-Spot-UV-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:19:42"
+ },
+ {
+  "id": 4946,
+  "slug": "matt-lamination-350-gsm-3",
+  "name": "Matt Lamination 350 Gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Elegant Matt Finish for Subtle Appeal.</ul>\r\n<ul>Soft Touch with Professional Look.</ul>\r\n<ul>Available in 350gsm &amp; 400gsm Thickness.</ul>\r\n<ul>Durable &amp; Scratch Resistant.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 350gsm / 400gsm Art Paper</ul>\r\n<ul>Lamination : Matt</ul>\r\n<ul>Finish : Smooth, Non-Reflective</ul>\r\n<ul>Design : Standard / Customizable</ul>\r\n<ul>Use : Corporate, Professional &amp; Personal Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "38",
+  "regular": "38",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Matt-Lamination-350-Gsm-1.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:19:44"
+ },
+ {
+  "id": 4947,
+  "slug": "matt-lamination-400-gsm-2",
+  "name": "Matt Lamination 400 Gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Elegant Matt Finish for Subtle Appeal.</ul>\r\n<ul>Soft Touch with Professional Look.</ul>\r\n<ul>Available in 350gsm &amp; 400gsm Thickness.</ul>\r\n<ul>Durable &amp; Scratch Resistant.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 350gsm / 400gsm Art Paper</ul>\r\n<ul>Lamination : Matt</ul>\r\n<ul>Finish : Smooth, Non-Reflective</ul>\r\n<ul>Design : Standard / Customizable</ul>\r\n<ul>Use : Corporate, Professional &amp; Personal Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Matt-Lamination-400-Gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:19:49"
+ },
+ {
+  "id": 4948,
+  "slug": "rounded-corner-glossy-lamination-400gsm-2",
+  "name": "Rounded Corner Glossy Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Rounded Corners for Modern Appeal.</ul>\r\n<ul>Available in Glossy, Matt, Gold Foil &amp; Spot UV Finishes.</ul>\r\n<ul>Premium Thickness (400gsm / 760mic).</ul>\r\n<ul>Durable &amp; Professional Presentation.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper / 760mic PETT</ul>\r\n<ul>Finish Options : Glossy / Matt / Gold Foil / Spot UV / Velvet</ul>\r\n<ul>Design : Rounded Corner</ul>\r\n<ul>Special Effect : Optional Foil &amp; UV Highlights</ul>\r\n<ul>Use : Premium, Modern &amp; Corporate Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "25",
+  "regular": "25",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-Glossy-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:19:51"
+ },
+ {
+  "id": 4949,
+  "slug": "rounded-corner-gold-foil-matt-lamination-400gsm-2",
+  "name": "Rounded Corner Gold Foil Matt Lamination 400gsm",
+  "description": "Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-Gold-Foil-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:24:06"
+ },
+ {
+  "id": 4950,
+  "slug": "rounded-corner-gold-foil-spot-uv-matt-lamination-400gsm-2",
+  "name": "Rounded Corner Gold Foil Spot UV Matt Lamination 400gsm",
+  "description": "Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "45",
+  "regular": "45",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-Gold-Foil-Spot-UV-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:24:09"
+ },
+ {
+  "id": 4951,
+  "slug": "rounded-corner-gold-foil-spot-uv-velvet-lamination-760mic",
+  "name": "Rounded Corner Gold Foil Spot UV Velvet Lamination 760mic",
+  "description": "Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-Gold-Foil-Spot-UV-Velvet-Lamination-760mic.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:24:11"
+ },
+ {
+  "id": 4952,
+  "slug": "rounded-corner-matt-lamination-400gsm-2",
+  "name": "Rounded Corner Matt Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Rounded Corners for Modern Appeal.</ul>\r\n<ul>Available in Glossy, Matt, Gold Foil &amp; Spot UV Finishes.</ul>\r\n<ul>Premium Thickness (400gsm / 760mic).</ul>\r\n<ul>Durable &amp; Professional Presentation.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper / 760mic PETT</ul>\r\n<ul>Finish Options : Glossy / Matt / Gold Foil / Spot UV / Velvet</ul>\r\n<ul>Design : Rounded Corner</ul>\r\n<ul>Special Effect : Optional Foil &amp; UV Highlights</ul>\r\n<ul>Use : Premium, Modern &amp; Corporate Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "32",
+  "regular": "32",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:24:14"
+ },
+ {
+  "id": 4953,
+  "slug": "rounded-corner-pett-glossy-lamination-760mic-2",
+  "name": "Rounded Corner PETT Glossy Lamination 760mic",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Rounded Corners for Modern Appeal.</ul>\r\n<ul>Available in Glossy, Matt, Gold Foil &amp; Spot UV Finishes.</ul>\r\n<ul>Premium Thickness (400gsm / 760mic).</ul>\r\n<ul>Durable &amp; Professional Presentation.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper / 760mic PETT</ul>\r\n<ul>Finish Options : Glossy / Matt / Gold Foil / Spot UV / Velvet</ul>\r\n<ul>Design : Rounded Corner</ul>\r\n<ul>Special Effect : Optional Foil &amp; UV Highlights</ul>\r\n<ul>Use : Premium, Modern &amp; Corporate Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "25",
+  "regular": "25",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-PETT-Glossy-Lamination-760mic.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:24:16"
+ },
+ {
+  "id": 4954,
+  "slug": "rounded-corner-pett-gold-glossy-lamination-760mic-2",
+  "name": "Rounded Corner PETT Gold Glossy Lamination 760mic",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Rounded Corners for Modern Appeal.</ul>\r\n<ul>Available in Glossy, Matt, Gold Foil &amp; Spot UV Finishes.</ul>\r\n<ul>Premium Thickness (400gsm / 760mic).</ul>\r\n<ul>Durable &amp; Professional Presentation.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper / 760mic PETT</ul>\r\n<ul>Finish Options : Glossy / Matt / Gold Foil / Spot UV / Velvet</ul>\r\n<ul>Design : Rounded Corner</ul>\r\n<ul>Special Effect : Optional Foil &amp; UV Highlights</ul>\r\n<ul>Use : Premium, Modern &amp; Corporate Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "29",
+  "regular": "29",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-PETT-Gold-Glossy-Lamination-760mic.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:27:41"
+ },
+ {
+  "id": 4955,
+  "slug": "rounded-corner-spot-uv-matt-lamination-400gsm-2",
+  "name": "Rounded Corner Spot UV Matt Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Rounded Corners for Modern Appeal.</ul>\r\n<ul>Available in Glossy, Matt, Gold Foil &amp; Spot UV Finishes.</ul>\r\n<ul>Premium Thickness (400gsm / 760mic).</ul>\r\n<ul>Durable &amp; Professional Presentation.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper / 760mic PETT</ul>\r\n<ul>Finish Options : Glossy / Matt / Gold Foil / Spot UV / Velvet</ul>\r\n<ul>Design : Rounded Corner</ul>\r\n<ul>Special Effect : Optional Foil &amp; UV Highlights</ul>\r\n<ul>Use : Premium, Modern &amp; Corporate Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-Spot-UV-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:27:44"
+ },
+ {
+  "id": 4956,
+  "slug": "rounded-corner-spot-uv-velvet-lamination-760mic-2",
+  "name": "Rounded Corner Spot UV Velvet Lamination 760mic",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Rounded Corners for Modern Appeal.</ul>\r\n<ul>Available in Glossy, Matt, Gold Foil &amp; Spot UV Finishes.</ul>\r\n<ul>Premium Thickness (400gsm / 760mic).</ul>\r\n<ul>Durable &amp; Professional Presentation.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper / 760mic PETT</ul>\r\n<ul>Finish Options : Glossy / Matt / Gold Foil / Spot UV / Velvet</ul>\r\n<ul>Design : Rounded Corner</ul>\r\n<ul>Special Effect : Optional Foil &amp; UV Highlights</ul>\r\n<ul>Use : Premium, Modern &amp; Corporate Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "25",
+  "regular": "25",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/08/Rounded-Corner-Spot-UV-Velvet-Lamination-760mic.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:27:45"
+ },
+ {
+  "id": 4957,
+  "slug": "spot-uv-matt-lamination-400gsm-2",
+  "name": "Spot UV Matt Lamination 400gsm",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Combination of Matt Lamination &amp; Spot UV.</ul>\r\n<ul>Glossy Highlights on Selected Areas.</ul>\r\n<ul>Premium Look for Modern Business Cards.</ul>\r\n<ul>Durable 400gsm Thickness.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Material : 400gsm Art Paper</ul>\r\n<ul>Lamination : Matt + Spot UV</ul>\r\n<ul>Finish : Gloss Highlights on Matte Base</ul>\r\n<ul>Design : Standard / Customizable</ul>\r\n<ul>Use : Luxury, Premium &amp; Branding Cards</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": "500",
+  "stock": "instock",
+  "image": "2025/08/Spot-UV-Matt-Lamination-400gsm.png",
+  "gallery": [],
+  "cats": [
+   61,
+   62
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-08-25 10:27:48"
+ },
+ {
+  "id": 5064,
+  "slug": "food-beverage-kiosks",
+  "name": "Food & Beverage Kiosks",
+  "description": "Streamline ordering and payments with self-service food &amp; beverage kiosks. Designed to reduce wait times and improve order accuracy, these kiosks provide customers with a fast, convenient, and engaging dining experience while increasing operational efficiency for businesses.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": "50",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/09/2.png",
+  "gallery": [],
+  "cats": [
+   69
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-09-28 20:34:22"
+ },
+ {
+  "id": 5070,
+  "slug": "information-kiosks",
+  "name": "Information Kiosks",
+  "description": "Deliver instant access to information with intuitive information kiosks. Ideal for malls, airports, hospitals, and public spaces, they help visitors navigate, find directions, and access services quickly — reducing dependency on staff while enhancing user satisfaction.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": "50",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/09/3.png",
+  "gallery": [],
+  "cats": [
+   69
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-09-28 20:39:01"
+ },
+ {
+  "id": 5071,
+  "slug": "interactive-digital-kiosks",
+  "name": "Interactive Digital Kiosks",
+  "description": "Engage customers like never before with interactive digital kiosks. Equipped with touchscreens, multimedia, and smart connectivity, these kiosks are perfect for showcasing products, running surveys, and offering immersive digital experiences that capture attention and drive interaction.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": "50",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/09/2.png",
+  "gallery": [],
+  "cats": [
+   69
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-09-28 20:39:04"
+ },
+ {
+  "id": 5072,
+  "slug": "promotional-kiosks",
+  "name": "Promotional Kiosks",
+  "description": "Boost your brand presence with eye-catching promotional kiosks. Whether for product launches, events, or seasonal campaigns, these kiosks create impactful customer engagement through interactive displays, product demos, and direct lead capture.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": "50",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/09/2.png",
+  "gallery": [],
+  "cats": [
+   69
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-09-28 20:39:06"
+ },
+ {
+  "id": 5073,
+  "slug": "retail-kiosks",
+  "name": "Retail Kiosks",
+  "description": "Enhance the shopping journey with retail kiosks that enable browsing, product lookup, inventory checks, and self-checkout. Designed to improve convenience and reduce in-store friction, retail kiosks help businesses serve more customers efficiently while elevating the buying experience.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": "50",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/09/2.png",
+  "gallery": [],
+  "cats": [
+   69
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-09-28 20:39:12"
+ },
+ {
+  "id": 5074,
+  "slug": "ticket-booking-kiosks",
+  "name": "Ticket & Booking Kiosks",
+  "description": "Simplify bookings and ticketing with automated kiosks for travel, entertainment, and events. Customers can easily browse schedules, purchase tickets, and make reservations 24/7, reducing queues and delivering a faster, hassle-free service experience.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": "50",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/09/2.png",
+  "gallery": [],
+  "cats": [
+   69
+  ],
+  "featured": true,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-09-28 20:39:15"
+ },
+ {
+  "id": 5218,
+  "slug": "white-bottles-with-breast-cancer-awareness-logo",
+  "name": "White Bottles with Breast Cancer Awareness Logo",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "38",
+  "regular": "38",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/White-Bottles-with-Breast-Cancer-Awareness-Logo.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-11-19 00:07:32"
+ },
+ {
+  "id": 5242,
+  "slug": "double-wall-ss-bottles-with-bamboo-base-lid-750-ml",
+  "name": "Double-Wall-SS-Bottles-with-Bamboo-Base-Lid-750-ml",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/Double-Wall-SS-Bottles-with-Bamboo-Base-Lid-750-ml.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-11-19 00:23:24"
+ },
+ {
+  "id": 5243,
+  "slug": "double-wall-stainless-steel-bottles-with-carry-handle",
+  "name": "Double-Wall-Stainless-Steel-Bottles-with-Carry-Handle",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "37",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/Double-Wall-Stainless-Steel-Bottles-with-Carry-Handle.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Blue",
+     "White"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5244,
+    "attributes": {
+     "pa_color": "blue"
+    },
+    "price": "37",
+    "regular": "37",
+    "sale": null,
+    "image": "2025/11/Double-Wall-Stainless-Steel-Bottles-with-Carry-Handle-blue.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5245,
+    "attributes": {
+     "pa_color": "black"
+    },
+    "price": "37",
+    "regular": "37",
+    "sale": null,
+    "image": "2025/11/Double-Wall-Stainless-Steel-Bottles-with-Carry-Handle-black.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5249,
+    "attributes": {
+     "pa_color": "white"
+    },
+    "price": "37",
+    "regular": "37",
+    "sale": null,
+    "image": "2025/11/Double-Wall-Stainless-Steel-Bottles-with-Carry-Handle-white.jpg",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-11-19 00:25:27"
+ },
+ {
+  "id": 5250,
+  "slug": "promotional-sports-bottles-750-ml-customizable-and-durable",
+  "name": "Promotional-Sports-Bottles-750-ml-Customizable-and-Durable",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "28",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/Promotional-Sports-Bottles-750-ml-Customizable-and-Durable-green.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Blue",
+     "Green",
+     "Red",
+     "White"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5251,
+    "attributes": {
+     "pa_color": "blue"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/11/Promotional-Sports-Bottles-750-ml-Customizable-and-Durable-blue.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5252,
+    "attributes": {
+     "pa_color": "green"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 5253,
+    "attributes": {
+     "pa_color": "red"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/11/Promotional-Sports-Bottles-750-ml-Customizable-and-Durable-red.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5254,
+    "attributes": {
+     "pa_color": "black"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/11/Promotional-Sports-Bottles-750-ml-Customizable-and-Durable-black.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5255,
+    "attributes": {
+     "pa_color": "white"
+    },
+    "price": "28",
+    "regular": "28",
+    "sale": null,
+    "image": "2025/11/Promotional-Sports-Bottles-750-ml-Customizable-and-Durable-white.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-11-19 00:35:44"
+ },
+ {
+  "id": 5256,
+  "slug": "travel-bottle",
+  "name": "Travel-bottle",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/Travel-bottle-blue.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Blue",
+     "Red"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5258,
+    "attributes": {
+     "pa_color": "blue"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 5259,
+    "attributes": {
+     "pa_color": "black"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2025/11/Travel-bottle-black.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5261,
+    "attributes": {
+     "pa_color": "red"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2025/11/Travel-bottle-red.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-11-19 00:49:46"
+ },
+ {
+  "id": 5262,
+  "slug": "transparent-water-bottles",
+  "name": "Transparent-Water-Bottles",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/Transparent-Water-Bottles.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-11-19 00:49:53"
+ },
+ {
+  "id": 5263,
+  "slug": "white-sublimation-bottles-twist-to-open-800ml",
+  "name": "White-Sublimation-Bottles-Twist-to-Open-800ml",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": "40",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/White-Sublimation-Bottles-Twist-to-Open-800ml.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2025-11-19 00:54:37"
+ },
+ {
+  "id": 5264,
+  "slug": "a5-memo-water-bottles",
+  "name": "A5-Memo-Water-Bottles",
+  "description": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2025/11/11.png",
+  "gallery": [],
+  "cats": [
+   52
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Green",
+     "Grey"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5265,
+    "attributes": {
+     "pa_color": "green"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2025/11/A5-Memo-Water-Bottles.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5266,
+    "attributes": {
+     "pa_color": "grey"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": null,
+    "stock": "instock"
+   },
+   {
+    "id": 5267,
+    "attributes": {
+     "pa_color": "black"
+    },
+    "price": "35",
+    "regular": "35",
+    "sale": null,
+    "image": "2025/11/A5-Memo-Water-Bottles-1.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2025-11-19 00:57:17"
+ },
+ {
+  "id": 5566,
+  "slug": "lycra-polo-tshirt",
+  "name": "Lycra Polo T shirt",
+  "description": "<strong>FEATURES:</strong>\r\n<ul>Stretchable Lycra Fabric for Flexibility.</ul>\r\n<ul>Comfortable &amp; Breathable.</ul>\r\n<ul>Durable &amp; Everyday Wear Ready.</ul>\r\n<ul>Easy Care – Machine Wash.</ul>\r\n<strong>DESCRIPTION:</strong>\r\n<ul>Neck : Polo Collar with Buttons</ul>\r\n<ul>Content : Lycra Blend</ul>\r\n<ul>Unisex : Men &amp; Women</ul>\r\n<ul>Fabric : Lycra</ul>\r\n<ul>Fit : Regular Fit</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "40",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/42-scaled.png",
+  "gallery": [
+   "2026/04/43-scaled.png",
+   "2026/04/POLO-TSHIRT-DEMO-MOCKUP.pdf-scaled.png",
+   "2026/04/3-scaled.jpg",
+   "2026/04/POLO-TSHIRT-MODELING.pdf-scaled.png",
+   "2026/04/41-scaled.png",
+   "2026/04/44-scaled.png",
+   "2026/04/45-scaled.png"
+  ],
+  "cats": [
+   19,
+   43,
+   64
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Size",
+    "slug": "pa_size",
+    "options": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL",
+     "XXXL"
+    ]
+   },
+   {
+    "name": "Color",
+    "slug": "pa_color",
+    "options": [
+     "Black",
+     "Royal Blue",
+     "Sky Blue",
+     "Light Green",
+     "Green",
+     "Purple",
+     "Red",
+     "White",
+     "Yellow",
+     "Orange"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5568,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "white"
+    },
+    "price": "40",
+    "regular": "40",
+    "sale": null,
+    "image": "2026/04/POLO-LYCRA-3-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5576,
+    "attributes": {
+     "pa_size": "",
+     "pa_color": "black"
+    },
+    "price": "40",
+    "regular": "40",
+    "sale": null,
+    "image": "2026/04/POLO-LYCRA-1-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2026-04-02 15:17:23"
+ },
+ {
+  "id": 5731,
+  "slug": "tension-fabric-stand-straight",
+  "name": "Tension Fabric Stand Straight",
+  "description": "The Straight Tension Fabric Stand offers a sleek and professional appearance, making it ideal for events and exhibitions. It features premium stretch fabric paired with a sturdy yet lightweight Aluminium frame, ensuring durability and easy setup. With multiple size options available, it’s a great choice for retail branding, exhibitions, and corporate displays across the UAE.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "7500",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/BACKDROPS-01.png",
+  "gallery": [
+   "2026/04/BACKDROPS-04-scaled.png",
+   "2026/04/BACKDROPS-03.png",
+   "2026/04/BACKDROPS-09.png",
+   "2026/04/BACKDROPS-06-scaled.png"
+  ],
+  "cats": [
+   89
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Sizes",
+    "slug": "pa_sizes",
+    "options": [
+     "800cm x 230cm",
+     "100cm x 230cm",
+     "230cm x 230cm",
+     "300cm x 230cm",
+     "400cm x 230cm",
+     "600cm x 230cm"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5732,
+    "attributes": {
+     "pa_sizes": "100cm-x-230cm"
+    },
+    "price": "",
+    "regular": null,
+    "sale": "",
+    "image": "2026/04/BACKDROPS-06-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5733,
+    "attributes": {
+     "pa_sizes": "230cm-x-230cm"
+    },
+    "price": "2200",
+    "regular": "2200",
+    "sale": null,
+    "image": "2026/04/BACKDROPS-04-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5734,
+    "attributes": {
+     "pa_sizes": "300cm-x-230cm"
+    },
+    "price": "2600",
+    "regular": "2600",
+    "sale": null,
+    "image": "2026/04/BACKDROPS-02-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5735,
+    "attributes": {
+     "pa_sizes": "400cm-x-230cm"
+    },
+    "price": "3200",
+    "regular": "3200",
+    "sale": null,
+    "image": "2026/04/BACKDROPS-08-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5736,
+    "attributes": {
+     "pa_sizes": "600cm-x-230cm"
+    },
+    "price": "4500",
+    "regular": "4500",
+    "sale": null,
+    "image": "2026/04/BACKDROPS-10-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5737,
+    "attributes": {
+     "pa_sizes": "800cm230cm"
+    },
+    "price": "7500",
+    "regular": "7500",
+    "sale": null,
+    "image": "2026/04/BACKDROPS-12-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2026-04-11 20:37:37"
+ },
+ {
+  "id": 5739,
+  "slug": "tension-fabric-stand-curved",
+  "name": "Tension Fabric Stand Curved",
+  "description": "Elevate your brand presence with the Curved Tension Fabric Stand, designed to create a smooth and modern display. Built with a durable aluminium frame and high-quality stretch fabric print, it delivers a sleek curved look that stands out at exhibitions and indoor branding setups. Available in 230x230cm and 300x230cm sizes, it offers a premium visual impact for professional displays.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "3100",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/TENSION-FABRIC-STAND-CURVED-03-scaled.png",
+  "gallery": [
+   "2026/04/TENSION-FABRIC-STAND-CURVED-01-scaled.png",
+   "2026/04/TENSION-FABRIC-STAND-CURVED-02-scaled.png",
+   "2026/04/TENSION-FABRIC-STAND-CURVED-04-scaled.png"
+  ],
+  "cats": [
+   89
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Sizes",
+    "slug": "pa_sizes",
+    "options": [
+     "230cm x 230cm",
+     "300cm x 230cm"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5740,
+    "attributes": {
+     "pa_sizes": "230cm-x-230cm"
+    },
+    "price": "2700",
+    "regular": "2700",
+    "sale": null,
+    "image": "2026/04/TENSION-FABRIC-STAND-CURVED-02-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5741,
+    "attributes": {
+     "pa_sizes": "300cm-x-230cm"
+    },
+    "price": "3100",
+    "regular": "3100",
+    "sale": null,
+    "image": "2026/04/TENSION-FABRIC-STAND-CURVED-04-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2026-04-12 12:42:15"
+ },
+ {
+  "id": 5742,
+  "slug": "vinyl-pop-up-stand-straight",
+  "name": "VINYL POP UP STAND STRAIGHT",
+  "description": "The Straight Vinyl Pop Up Stand is a reliable option for creating bold and impactful branding displays. Constructed with a strong aluminium frame and high-quality vinyl panels, it delivers a vibrant, glossy finish that grabs attention. Available in sizes ranging from 2x3 to 6x3, it’s well-suited for exhibitions, indoor promotions, and retail environments across the UAE.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "4300",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/VINYL-POP-UP-STAND-STRAIGHT-05.png",
+  "gallery": [
+   "2026/04/VINYL-POP-UP-STAND-STRAIGHT-05.png",
+   "2026/04/VINYL-POP-UP-STAND-STRAIGHT-06-scaled.png",
+   "2026/04/VINYL-POP-UP-STAND-STRAIGHT-07.png",
+   "2026/04/VINYL-POP-UP-STAND-STRAIGHT-08-scaled.png"
+  ],
+  "cats": [
+   89
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Sizes",
+    "slug": "pa_sizes",
+    "options": [
+     "2m x 3m",
+     "3m x 3m",
+     "4m x 3m",
+     "5m x 3m",
+     "6m x 3m"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5755,
+    "attributes": {
+     "pa_sizes": "2-x-3"
+    },
+    "price": "2850",
+    "regular": "2850",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-UP-STAND-STRAIGHT-02-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5756,
+    "attributes": {
+     "pa_sizes": "3-x-3"
+    },
+    "price": "3200",
+    "regular": "3200",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-UP-STAND-STRAIGHT-04-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5757,
+    "attributes": {
+     "pa_sizes": "4-x-3"
+    },
+    "price": "3600",
+    "regular": "3600",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-UP-STAND-STRAIGHT-06-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5758,
+    "attributes": {
+     "pa_sizes": "5-x-3"
+    },
+    "price": "3950",
+    "regular": "3950",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-UP-STAND-STRAIGHT-08-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5759,
+    "attributes": {
+     "pa_sizes": "6-x-3"
+    },
+    "price": "4300",
+    "regular": "4300",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-UP-STAND-STRAIGHT-10-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2026-04-12 13:33:36"
+ },
+ {
+  "id": 5760,
+  "slug": "vinyl-pop-up-stand-curve",
+  "name": "VINYL POP UP STAND CURVE",
+  "description": "The Curved Vinyl Pop Up Stand brings a refined and dynamic touch to your brand displays. Crafted with a curved aluminium frame and high-resolution vinyl panels, it creates a sleek, professional finish with added depth. Perfect for exhibitions, retail branding, and media backdrops, it’s designed to make a strong visual impact across the UAE.\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "4300",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/VINYL-POP-STAND-CURVED-07-scaled.png",
+  "gallery": [
+   "2026/04/VINYL-POP-STAND-CURVED-08-scaled.png",
+   "2026/04/VINYL-POP-STAND-CURVED-05-scaled.png",
+   "2026/04/VINYL-POP-STAND-CURVED-06-scaled.png"
+  ],
+  "cats": [
+   89
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Sizes",
+    "slug": "pa_sizes",
+    "options": [
+     "2m x 3m",
+     "3m x 3m",
+     "4m x 3m",
+     "5m x 3m",
+     "6m x 3m"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5766,
+    "attributes": {
+     "pa_sizes": "2-x-3"
+    },
+    "price": "2850",
+    "regular": "2850",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-STAND-CURVED-02-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5767,
+    "attributes": {
+     "pa_sizes": "3-x-3"
+    },
+    "price": "3200",
+    "regular": "3200",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-STAND-CURVED-04-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5768,
+    "attributes": {
+     "pa_sizes": "4-x-3"
+    },
+    "price": "3600",
+    "regular": "3600",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-STAND-CURVED-06-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5769,
+    "attributes": {
+     "pa_sizes": "5-x-3"
+    },
+    "price": "3950",
+    "regular": "3950",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-STAND-CURVED-08-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5770,
+    "attributes": {
+     "pa_sizes": "6-x-3"
+    },
+    "price": "4300",
+    "regular": "4300",
+    "sale": null,
+    "image": "2026/04/VINYL-POP-STAND-CURVED-10-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2026-04-12 19:50:58"
+ },
+ {
+  "id": 5797,
+  "slug": "roll-up",
+  "name": "ROLL UP",
+  "description": "<p data-start=\"34\" data-end=\"323\">Our <strong data-start=\"38\" data-end=\"66\">Roll Up Stand (Standard)</strong> is a practical and professional display solution for exhibitions, retail promotions, events, and corporate branding. Designed with a strong aluminium base and smooth pull-up mechanism, it provides a clean and elegant presentation for your printed banner.</p>\r\n<p data-start=\"325\" data-end=\"571\">Lightweight, portable, and easy to assemble within minutes, this roll up stand is ideal for both indoor marketing and promotional setups across the UAE. Each stand comes with a support pole and carry bag for convenient transportation and storage.</p>\r\n<p data-start=\"573\" data-end=\"590\"><strong data-start=\"575\" data-end=\"588\">Features:</strong></p>\r\n\r\n<ul data-start=\"591\" data-end=\"826\">\r\n \t<li data-section-id=\"1s1uvbk\" data-start=\"591\" data-end=\"622\">High-quality aluminium base</li>\r\n \t<li data-section-id=\"1gpbzw5\" data-start=\"623\" data-end=\"658\">Smooth roll-up spring mechanism</li>\r\n \t<li data-section-id=\"99y59u\" data-start=\"659\" data-end=\"691\">Durable and stable structure</li>\r\n \t<li data-section-id=\"u8s5x3\" data-start=\"692\" data-end=\"730\">Easy to install and remove graphic</li>\r\n \t<li data-section-id=\"11jbwk8\" data-start=\"731\" data-end=\"769\">Includes carry bag for portability</li>\r\n \t<li data-section-id=\"1ot4zlc\" data-start=\"770\" data-end=\"826\">Perfect for events, exhibitions, and retail branding</li>\r\n</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "100",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/ROLL-UP-05-scaled.png",
+  "gallery": [
+   "2026/04/ROLL-UP-06-scaled.png",
+   "2026/04/ROLL-UP-07-scaled.png",
+   "2026/04/ROLL-UP-08-scaled.png"
+  ],
+  "cats": [
+   58,
+   89
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Sizes",
+    "slug": "pa_sizes",
+    "options": [
+     "85cm x 200cm",
+     "60cm x 160cm",
+     "100cm x 200cm",
+     "120cm x 200cm",
+     "150cm x 200cm"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5798,
+    "attributes": {
+     "pa_sizes": "100cm-x-200cm"
+    },
+    "price": "",
+    "regular": null,
+    "sale": "",
+    "image": "2026/04/ROLL-UP-06-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5799,
+    "attributes": {
+     "pa_sizes": "120cm-x-200cm"
+    },
+    "price": "",
+    "regular": null,
+    "sale": "",
+    "image": "2026/04/ROLL-UP-08-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5800,
+    "attributes": {
+     "pa_sizes": "150cm-x-200cm"
+    },
+    "price": "",
+    "regular": null,
+    "sale": "",
+    "image": "2026/04/ROLL-UP-10-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5801,
+    "attributes": {
+     "pa_sizes": "60cm-x-160cm"
+    },
+    "price": "",
+    "regular": null,
+    "sale": "",
+    "image": "2026/04/ROLL-UP-04-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5802,
+    "attributes": {
+     "pa_sizes": "85cm-x-200cm"
+    },
+    "price": "100",
+    "regular": "100",
+    "sale": null,
+    "image": "2026/04/ROLL-UP-02-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2026-04-16 11:01:47"
+ },
+ {
+  "id": 5853,
+  "slug": "pop-up-table-200cm-x-95cm",
+  "name": "POP UP TABLE 200cm x 95cm",
+  "description": "<p data-start=\"83\" data-end=\"406\">The <strong data-start=\"87\" data-end=\"111\">Pop Up Table (Curve)</strong> is a stylish and practical promotional counter designed for exhibitions, retail promotions, events, and brand activations. Featuring a <strong data-start=\"247\" data-end=\"281\">strong folding aluminium frame</strong> with a <strong data-start=\"289\" data-end=\"315\">curved tabletop design</strong>, it provides a professional front-desk look while remaining lightweight and easy to carry.</p>\r\n<p data-start=\"408\" data-end=\"693\">Built for quick setup, this pop up table includes a smooth <strong data-start=\"467\" data-end=\"499\">PVC/vinyl wrap branding area</strong> that can be customized with your artwork, making it perfect for showcasing your brand in a clean and modern way. Ideal for trade shows, malls, corporate events, and product launches in the UAE.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "100",
+  "regular": "100",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/POP-UP-TABLE-01.png",
+  "gallery": [
+   "2026/04/POP-UP-TABLE-02.png"
+  ],
+  "cats": [
+   89,
+   104
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-16 20:49:32"
+ },
+ {
+  "id": 5854,
+  "slug": "exhibition-tent",
+  "name": "EXHIBITION TENT",
+  "description": "<p data-start=\"93\" data-end=\"460\">The <strong data-start=\"97\" data-end=\"132\">Exhibition Tent</strong> is a durable and professional outdoor branding solution designed for exhibitions, outdoor events, promotional campaigns, and corporate activations. Made with a strong <strong data-start=\"300\" data-end=\"324\">foldable metal frame</strong> and a high-quality <strong data-start=\"344\" data-end=\"372\">weather-resistant canopy</strong>, it provides excellent shade and protection while giving your brand maximum visibility.</p>\r\n<p data-start=\"462\" data-end=\"750\">This tent is easy to install and can be customized with your logo and artwork, making it ideal for trade shows, sports events, market stalls, and promotional setups across the UAE. Its sturdy structure ensures stability, while the large print area delivers a premium advertising presence.</p>\r\n<p data-start=\"752\" data-end=\"809\" data-is-last-node=\"\" data-is-only-node=\"\"><strong data-start=\"752\" data-end=\"761\">Sizes</strong><br data-start=\"761\" data-end=\"764\" />300cm x 300cm<br data-start=\"777\" data-end=\"780\" />300cm x 400cm<br data-start=\"793\" data-end=\"796\" />300cm x 600cm</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "50",
+  "regular": null,
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/EXHIBITION-TENTS-01.png",
+  "gallery": [
+   "2026/04/EXHIBITION-TENTS-03-scaled.png",
+   "2026/04/EXHIBITION-TENTS-04-scaled.png",
+   "2026/04/EXHIBITION-TENTS-05-scaled.png"
+  ],
+  "cats": [
+   103
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "variable",
+  "attributes": [
+   {
+    "name": "Sizes",
+    "slug": "pa_sizes",
+    "options": [
+     "300cm x 300cm",
+     "300cm x 400cm",
+     "300cm x 600cm"
+    ]
+   }
+  ],
+  "variations": [
+   {
+    "id": 5855,
+    "attributes": {
+     "pa_sizes": "300cm-x-300cm"
+    },
+    "price": "50",
+    "regular": "50",
+    "sale": null,
+    "image": "2026/04/EXHIBITION-TENTS-02-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5856,
+    "attributes": {
+     "pa_sizes": "300cm-x-400cm"
+    },
+    "price": "50",
+    "regular": "50",
+    "sale": null,
+    "image": "2026/04/EXHIBITION-TENTS-04-scaled.png",
+    "stock": "instock"
+   },
+   {
+    "id": 5857,
+    "attributes": {
+     "pa_sizes": "300cm-x-600cm"
+    },
+    "price": "50",
+    "regular": "50",
+    "sale": null,
+    "image": "2026/04/EXHIBITION-TENTS-06-scaled.png",
+    "stock": "instock"
+   }
+  ],
+  "date": "2026-04-16 21:01:13"
+ },
+ {
+  "id": 5925,
+  "slug": "a4-size-flyer",
+  "name": "A4 SIZE FLYER",
+  "description": "<h2 data-section-id=\"106n4oo\" data-start=\"0\" data-end=\"12\">FEATURES:</h2>\r\n<ul data-start=\"14\" data-end=\"349\">\r\n \t<li data-section-id=\"37selp\" data-start=\"14\" data-end=\"78\">Premium quality A4 flyers printed for sharp, vibrant results</li>\r\n \t<li data-section-id=\"or5r3i\" data-start=\"79\" data-end=\"154\">Ideal for promotions, events, menus, brochures, and marketing campaigns</li>\r\n \t<li data-section-id=\"1efa15v\" data-start=\"155\" data-end=\"214\">Printed on high-quality paper for a professional finish</li>\r\n \t<li data-section-id=\"31uyh1\" data-start=\"215\" data-end=\"277\">Available in single-sided or double-sided printing options</li>\r\n \t<li data-section-id=\"1olmovl\" data-start=\"278\" data-end=\"349\">Suitable for bulk promotional distribution and business advertising</li>\r\n</ul>\r\n<h2 data-section-id=\"1thgpw9\" data-start=\"351\" data-end=\"366\">DESCRIPTION:</h2>\r\n<ul data-start=\"368\" data-end=\"650\">\r\n \t<li data-section-id=\"1wqzrtu\" data-start=\"368\" data-end=\"384\"><strong data-start=\"370\" data-end=\"379\">Size:</strong> A4</li>\r\n \t<li data-section-id=\"1sjjbcr\" data-start=\"385\" data-end=\"430\"><strong data-start=\"387\" data-end=\"402\">Print Type:</strong> Single Side / Double Side</li>\r\n \t<li data-section-id=\"1sthu3t\" data-start=\"431\" data-end=\"489\"><strong data-start=\"433\" data-end=\"446\">Material:</strong> Premium Art Paper / Custom Paper Options</li>\r\n \t<li data-section-id=\"1brihku\" data-start=\"490\" data-end=\"531\"><strong data-start=\"492\" data-end=\"503\">Finish:</strong> Matte or Gloss</li>\r\n \t<li data-section-id=\"1n7l1ie\" data-start=\"532\" data-end=\"599\"><strong data-start=\"534\" data-end=\"544\">Usage:</strong> Promotions, Events, Advertising &amp; Business Marketing</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"600\" data-end=\"650\"><strong data-start=\"602\" data-end=\"620\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div>Promote your brand effectively with our A4 Size Flyers, designed to deliver impactful messaging with high-quality printing and professional presentation. Perfect for marketing campaigns, product promotions, events, and business advertising, these flyers offer a versatile and cost-effective promotional solution. Available in various paper and finish options to match your branding needs.</div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "25",
+  "regular": "25",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/FLYERS-01-scaled.png",
+  "gallery": [
+   "2026/04/FLYERS-07-scaled.png"
+  ],
+  "cats": [
+   105
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 11:43:14"
+ },
+ {
+  "id": 5926,
+  "slug": "a3-size-flyers",
+  "name": "A3 Size Flyers",
+  "description": "<h3 data-section-id=\"1opku63\" data-start=\"22\" data-end=\"35\">FEATURES:</h3>\r\n<ul data-start=\"36\" data-end=\"390\">\r\n \t<li data-section-id=\"1txiqok\" data-start=\"36\" data-end=\"118\">Large-format A3 flyers ideal for high-impact promotions and visual advertising</li>\r\n \t<li data-section-id=\"2sobnj\" data-start=\"119\" data-end=\"184\">Sharp, vibrant printing for professional-quality presentation</li>\r\n \t<li data-section-id=\"190fzox\" data-start=\"185\" data-end=\"262\">Perfect for events, product promotions, menus, posters, and announcements</li>\r\n \t<li data-section-id=\"31uyh1\" data-start=\"263\" data-end=\"325\">Available in single-sided or double-sided printing options</li>\r\n \t<li data-section-id=\"14wnw8r\" data-start=\"326\" data-end=\"390\">Premium paper options with matte or gloss finishes available</li>\r\n</ul>\r\n<h3 data-section-id=\"1a0vfne\" data-start=\"392\" data-end=\"408\">DESCRIPTION:</h3>\r\n<ul data-start=\"409\" data-end=\"692\">\r\n \t<li data-section-id=\"1wqzvz9\" data-start=\"409\" data-end=\"425\"><strong data-start=\"411\" data-end=\"420\">Size:</strong> A3</li>\r\n \t<li data-section-id=\"1sjjbcr\" data-start=\"426\" data-end=\"471\"><strong data-start=\"428\" data-end=\"443\">Print Type:</strong> Single Side / Double Side</li>\r\n \t<li data-section-id=\"1sthu3t\" data-start=\"472\" data-end=\"530\"><strong data-start=\"474\" data-end=\"487\">Material:</strong> Premium Art Paper / Custom Paper Options</li>\r\n \t<li data-section-id=\"1brihku\" data-start=\"531\" data-end=\"572\"><strong data-start=\"533\" data-end=\"544\">Finish:</strong> Matte or Gloss (Optional)</li>\r\n \t<li data-section-id=\"sfx9p\" data-start=\"573\" data-end=\"641\"><strong data-start=\"575\" data-end=\"585\">Usage:</strong> Advertising, Promotions, Events &amp; Marketing Campaigns</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"642\" data-end=\"692\"><strong data-start=\"644\" data-end=\"662\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"694\" data-end=\"998\">Make your message stand out with A3 Size Flyers, ideal for bold promotional displays and detailed visual communication. Designed for impactful marketing, these flyers offer premium print quality and versatile customization options for businesses, events, and advertising needs.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/FLYERS-04.png",
+  "gallery": [
+   "2026/04/FLYERS-09-scaled.png"
+  ],
+  "cats": [
+   105
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 11:51:40"
+ },
+ {
+  "id": 5928,
+  "slug": "a5-size-flyer",
+  "name": "A5 SIZE FLYER",
+  "description": "<h3 data-section-id=\"1opku63\" data-start=\"22\" data-end=\"35\">FEATURES:</h3>\r\n<ul data-start=\"36\" data-end=\"364\">\r\n \t<li data-section-id=\"1c54a94\" data-start=\"36\" data-end=\"119\">Versatile A5 flyers ideal for promotions, events, menus, and business marketing</li>\r\n \t<li data-section-id=\"3h7n69\" data-start=\"120\" data-end=\"180\">High-quality printing for sharp text and vibrant visuals</li>\r\n \t<li data-section-id=\"1jflhtz\" data-start=\"181\" data-end=\"238\">Easy-to-handle size, perfect for handouts and inserts</li>\r\n \t<li data-section-id=\"31uyh1\" data-start=\"239\" data-end=\"301\">Available in single-sided or double-sided printing options</li>\r\n \t<li data-section-id=\"1f24g2t\" data-start=\"302\" data-end=\"364\">Premium paper choices with matte or gloss finish available</li>\r\n</ul>\r\n<h3 data-section-id=\"1a0vfne\" data-start=\"366\" data-end=\"382\">DESCRIPTION:</h3>\r\n<ul data-start=\"383\" data-end=\"656\">\r\n \t<li data-section-id=\"1wqzuar\" data-start=\"383\" data-end=\"399\"><strong data-start=\"385\" data-end=\"394\">Size:</strong> A5</li>\r\n \t<li data-section-id=\"1sjjbcr\" data-start=\"400\" data-end=\"445\"><strong data-start=\"402\" data-end=\"417\">Print Type:</strong> Single Side / Double Side</li>\r\n \t<li data-section-id=\"1sthu3t\" data-start=\"446\" data-end=\"504\"><strong data-start=\"448\" data-end=\"461\">Material:</strong> Premium Art Paper / Custom Paper Options</li>\r\n \t<li data-section-id=\"1brihku\" data-start=\"505\" data-end=\"546\"><strong data-start=\"507\" data-end=\"518\">Finish:</strong> Matte or Gloss (Optional)</li>\r\n \t<li data-section-id=\"txr4kg\" data-start=\"547\" data-end=\"605\"><strong data-start=\"549\" data-end=\"559\">Usage:</strong> Promotions, Events, Advertising &amp; Marketing</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"606\" data-end=\"656\"><strong data-start=\"608\" data-end=\"626\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"658\" data-end=\"966\" data-is-last-node=\"\" data-is-only-node=\"\"><strong data-start=\"658\" data-end=\"682\">Product Description:</strong><br data-start=\"682\" data-end=\"685\" />Our A5 Size Flyers offer the perfect balance between compact design and impactful communication. Ideal for promotions, events, and business advertising, they provide excellent print quality and flexibility in design, making them a reliable choice for effective marketing campaigns.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/FLYERS-02-scaled.png",
+  "gallery": [
+   "2026/04/FLYERS-08-scaled.png"
+  ],
+  "cats": [
+   105
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 11:55:57"
+ },
+ {
+  "id": 5929,
+  "slug": "dl-size-flyer",
+  "name": "DL Size Flyer",
+  "description": "<h3 data-section-id=\"1opku63\" data-start=\"1991\" data-end=\"2004\">FEATURES:</h3>\r\n<ul data-start=\"2005\" data-end=\"2351\">\r\n \t<li data-section-id=\"1vp6yk2\" data-start=\"2005\" data-end=\"2093\">Sleek DL flyers perfect for promotional inserts, menus, and brochure-style marketing</li>\r\n \t<li data-section-id=\"1gwubc1\" data-start=\"2094\" data-end=\"2159\">High-resolution printing for vibrant and professional results</li>\r\n \t<li data-section-id=\"1ms27ah\" data-start=\"2160\" data-end=\"2237\">Ideal for restaurants, corporate promotions, mailers, and event marketing</li>\r\n \t<li data-section-id=\"5znbg5\" data-start=\"2238\" data-end=\"2292\">Available in single-sided or double-sided printing</li>\r\n \t<li data-section-id=\"manb04\" data-start=\"2293\" data-end=\"2351\">Premium paper stock with matte or gloss finish options</li>\r\n</ul>\r\n<h3 data-section-id=\"1a0vfne\" data-start=\"2353\" data-end=\"2369\">DESCRIPTION:</h3>\r\n<ul data-start=\"2370\" data-end=\"2649\">\r\n \t<li data-section-id=\"1wqz01r\" data-start=\"2370\" data-end=\"2386\"><strong data-start=\"2372\" data-end=\"2381\">Size:</strong> DL</li>\r\n \t<li data-section-id=\"1sjjbcr\" data-start=\"2387\" data-end=\"2432\"><strong data-start=\"2389\" data-end=\"2404\">Print Type:</strong> Single Side / Double Side</li>\r\n \t<li data-section-id=\"1sthu3t\" data-start=\"2433\" data-end=\"2491\"><strong data-start=\"2435\" data-end=\"2448\">Material:</strong> Premium Art Paper / Custom Paper Options</li>\r\n \t<li data-section-id=\"1brihku\" data-start=\"2492\" data-end=\"2533\"><strong data-start=\"2494\" data-end=\"2505\">Finish:</strong> Matte or Gloss (Optional)</li>\r\n \t<li data-section-id=\"wk1v9s\" data-start=\"2534\" data-end=\"2598\"><strong data-start=\"2536\" data-end=\"2546\">Usage:</strong> Promotions, Mailers, Menus &amp; Business Advertising</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"2599\" data-end=\"2649\"><strong data-start=\"2601\" data-end=\"2619\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"2651\" data-end=\"2960\" data-is-last-node=\"\" data-is-only-node=\"\">Promote your brand with DL Size Flyers, designed for elegant and effective marketing communication. Their slim, professional format makes them ideal for brochures, menus, promotional inserts, and direct mail campaigns while delivering premium print quality and strong visual impact.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/FLYERS-05.png",
+  "gallery": [
+   "2026/04/FLYERS-10-scaled.png"
+  ],
+  "cats": [
+   105
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 11:59:00"
+ },
+ {
+  "id": 5930,
+  "slug": "water-base-flag",
+  "name": "Water Base Flag",
+  "description": "<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"398\">\r\n \t<li data-section-id=\"wlwkz4\" data-start=\"18\" data-end=\"92\">Durable water base flag designed for stable indoor and outdoor display</li>\r\n \t<li data-section-id=\"1yqspey\" data-start=\"93\" data-end=\"169\">High-quality custom printed fabric for vibrant and long-lasting branding</li>\r\n \t<li data-section-id=\"1gxmux8\" data-start=\"170\" data-end=\"243\">Strong water-fillable base provides extra support in windy conditions</li>\r\n \t<li data-section-id=\"l57qv1\" data-start=\"244\" data-end=\"314\">Lightweight frame structure for easy setup, transport, and storage</li>\r\n \t<li data-section-id=\"1s3gx8l\" data-start=\"315\" data-end=\"398\">Ideal for promotions, events, exhibitions, storefronts, and outdoor advertising</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"400\" data-end=\"419\"><span role=\"text\"><strong data-start=\"403\" data-end=\"419\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"421\" data-end=\"723\">\r\n \t<li data-section-id=\"5wuact\" data-start=\"421\" data-end=\"458\"><strong data-start=\"423\" data-end=\"440\">Product Type:</strong> Water Base Flag</li>\r\n \t<li data-section-id=\"uivv04\" data-start=\"459\" data-end=\"524\"><strong data-start=\"461\" data-end=\"474\">Material:</strong> Premium Polyester Fabric with Sturdy Pole Frame</li>\r\n \t<li data-section-id=\"1qka318\" data-start=\"525\" data-end=\"568\"><strong data-start=\"527\" data-end=\"541\">Base Type:</strong> Water-Fill Weighted Base</li>\r\n \t<li data-section-id=\"1kfe08x\" data-start=\"569\" data-end=\"622\"><strong data-start=\"571\" data-end=\"581\">Print:</strong> Single or Double-Sided Custom Printing</li>\r\n \t<li data-section-id=\"g6km7e\" data-start=\"623\" data-end=\"672\"><strong data-start=\"625\" data-end=\"635\">Usage:</strong> Indoor &amp; Outdoor Branding Displays</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"673\" data-end=\"723\"><strong data-start=\"675\" data-end=\"693\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"725\" data-end=\"1133\" data-is-last-node=\"\" data-is-only-node=\"\">Promote your brand with our Water Base Flags, designed for maximum visibility and stability in both indoor and outdoor environments. Featuring high-quality printed fabric and a durable water-filled base for added support, these flags are perfect for events, exhibitions, storefront promotions, and advertising displays. A practical and eye-catching solution for impactful branding.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/WhatsApp-Image-2026-04-22-at-1.28.03-PM.jpeg",
+  "gallery": [],
+  "cats": [
+   56
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:14:47"
+ },
+ {
+  "id": 5931,
+  "slug": "a4-trifold-flyers",
+  "name": "A4 Trifold Flyers",
+  "description": "<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"423\">\r\n \t<li data-section-id=\"9s041s\" data-start=\"18\" data-end=\"108\">Professionally printed A4 Trifold Flyers ideal for brochures and promotional marketing</li>\r\n \t<li data-section-id=\"17bins0\" data-start=\"109\" data-end=\"199\">Six-panel fold design provides ample space for products, services, and brand messaging</li>\r\n \t<li data-section-id=\"kgb2yd\" data-start=\"200\" data-end=\"268\">High-quality printing for sharp visuals and premium presentation</li>\r\n \t<li data-section-id=\"1mh089n\" data-start=\"269\" data-end=\"350\">Perfect for corporate profiles, menus, event promotions, and product catalogs</li>\r\n \t<li data-section-id=\"70hpo9\" data-start=\"351\" data-end=\"423\">Available in premium paper stocks with matte or gloss finish options</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"425\" data-end=\"444\"><span role=\"text\"><strong data-start=\"428\" data-end=\"444\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"446\" data-end=\"780\">\r\n \t<li data-section-id=\"v5zrv0\" data-start=\"446\" data-end=\"470\"><strong data-start=\"448\" data-end=\"457\">Size:</strong> A4 Trifold</li>\r\n \t<li data-section-id=\"1puohw7\" data-start=\"471\" data-end=\"508\"><strong data-start=\"473\" data-end=\"487\">Fold Type:</strong> Trifold (6 Panels)</li>\r\n \t<li data-section-id=\"1sh2w45\" data-start=\"509\" data-end=\"562\"><strong data-start=\"511\" data-end=\"526\">Print Type:</strong> Full Color Single or Double-Sided</li>\r\n \t<li data-section-id=\"1sthu3t\" data-start=\"563\" data-end=\"621\"><strong data-start=\"565\" data-end=\"578\">Material:</strong> Premium Art Paper / Custom Paper Options</li>\r\n \t<li data-section-id=\"1brihku\" data-start=\"622\" data-end=\"663\"><strong data-start=\"624\" data-end=\"635\">Finish:</strong> Matte or Gloss (Optional)</li>\r\n \t<li data-section-id=\"h5rcgj\" data-start=\"664\" data-end=\"729\"><strong data-start=\"666\" data-end=\"676\">Usage:</strong> Brochures, Promotions, Menus &amp; Corporate Marketing</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"730\" data-end=\"780\"><strong data-start=\"732\" data-end=\"750\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"782\" data-end=\"1132\" data-is-last-node=\"\" data-is-only-node=\"\"><br data-start=\"806\" data-end=\"809\" />Showcase your brand professionally with our A4 Trifold Flyers, designed to present detailed information in a clean and organized format. With a six-panel layout and premium print quality, they are ideal for brochures, product catalogs, menus, and promotional campaigns, offering an elegant and effective marketing solution.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/FLYERS-03.png",
+  "gallery": [],
+  "cats": [
+   105
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:22:44"
+ },
+ {
+  "id": 5932,
+  "slug": "a3-fold-a4",
+  "name": "A3 Fold A4",
+  "description": "<div class=\"\" data-turn-id-container=\"request-699ba21a-87b8-8324-87a7-7c558c12ec58-5\" data-is-intersecting=\"true\"><section class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-699ba21a-87b8-8324-87a7-7c558c12ec58-5\" data-testid=\"conversation-turn-36\" data-scroll-anchor=\"false\" data-turn=\"assistant\">\r\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\r\n<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex max-w-full flex-col gap-4 grow\">\r\n<div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\" dir=\"auto\" tabindex=\"0\" data-message-author-role=\"assistant\" data-message-id=\"0092b99a-563e-44ef-a1ec-5073a80d7c7e\" data-message-model-slug=\"gpt-5-3\" data-turn-start-message=\"true\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden\">\r\n<div class=\"markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling\">\r\n<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"443\">\r\n \t<li data-section-id=\"1h42nas\" data-start=\"18\" data-end=\"109\">Premium A3 Fold to A4 flyers ideal for detailed promotions and brochure-style marketing</li>\r\n \t<li data-section-id=\"yb0jd0\" data-start=\"110\" data-end=\"203\">Folded format offers extra space for presenting products, services, and brand information</li>\r\n \t<li data-section-id=\"wo7ykm\" data-start=\"204\" data-end=\"277\">High-quality printing for crisp visuals and professional presentation</li>\r\n \t<li data-section-id=\"4cv7ig\" data-start=\"278\" data-end=\"370\">Perfect for catalogs, menus, corporate brochures, event promotions, and direct marketing</li>\r\n \t<li data-section-id=\"70hpo9\" data-start=\"371\" data-end=\"443\">Available in premium paper stocks with matte or gloss finish options</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"445\" data-end=\"464\"><span role=\"text\"><strong data-start=\"448\" data-end=\"464\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"466\" data-end=\"806\">\r\n \t<li data-section-id=\"1xicwkq\" data-start=\"466\" data-end=\"493\"><strong data-start=\"468\" data-end=\"477\">Size:</strong> A3 Fold to A4</li>\r\n \t<li data-section-id=\"1ijgqfj\" data-start=\"494\" data-end=\"532\"><strong data-start=\"496\" data-end=\"510\">Fold Type:</strong> Half Fold (Bi-Fold)</li>\r\n \t<li data-section-id=\"1sh2w45\" data-start=\"533\" data-end=\"586\"><strong data-start=\"535\" data-end=\"550\">Print Type:</strong> Full Color Single or Double-Sided</li>\r\n \t<li data-section-id=\"1sthu3t\" data-start=\"587\" data-end=\"645\"><strong data-start=\"589\" data-end=\"602\">Material:</strong> Premium Art Paper / Custom Paper Options</li>\r\n \t<li data-section-id=\"1brihku\" data-start=\"646\" data-end=\"687\"><strong data-start=\"648\" data-end=\"659\">Finish:</strong> Matte or Gloss (Optional)</li>\r\n \t<li data-section-id=\"aeqd2\" data-start=\"688\" data-end=\"755\"><strong data-start=\"690\" data-end=\"700\">Usage:</strong> Brochures, Promotions, Catalogs &amp; Business Marketing</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"756\" data-end=\"806\"><strong data-start=\"758\" data-end=\"776\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"808\" data-end=\"1144\" data-is-last-node=\"\" data-is-only-node=\"\">Present your brand professionally with our A3 Fold to A4 Flyers, designed to deliver detailed content in a sleek folded format. With extra space for visuals and information, they are ideal for brochures, menus, product catalogs, and promotional campaigns, offering a polished and impactful marketing solution.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"z-0 flex min-h-[46px] justify-start\"></div>\r\n<div class=\"mt-3 w-full empty:hidden\">\r\n<div class=\"text-center\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</section></div>\r\n<div class=\"pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]\" aria-hidden=\"true\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/FLYERS-06.png",
+  "gallery": [],
+  "cats": [
+   105
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:26:09"
+ },
+ {
+  "id": 5933,
+  "slug": "kraft-shopping-bag-white",
+  "name": "Kraft Shopping Bag White",
+  "description": "<div class=\"\" data-turn-id-container=\"request-699ba21a-87b8-8324-87a7-7c558c12ec58-6\" data-is-intersecting=\"true\"><section class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-699ba21a-87b8-8324-87a7-7c558c12ec58-6\" data-testid=\"conversation-turn-38\" data-scroll-anchor=\"false\" data-turn=\"assistant\">\r\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\r\n<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex max-w-full flex-col gap-4 grow\">\r\n<div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\" dir=\"auto\" tabindex=\"0\" data-message-author-role=\"assistant\" data-message-id=\"cc86afe7-6d78-4e0b-b472-1c21d9d67d15\" data-message-model-slug=\"gpt-5-3\" data-turn-start-message=\"true\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden\">\r\n<div class=\"markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling\">\r\n<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"391\">\r\n \t<li data-section-id=\"vsisj6\" data-start=\"18\" data-end=\"100\">Premium white kraft shopping bags designed for stylish and practical packaging</li>\r\n \t<li data-section-id=\"2r1fpe\" data-start=\"101\" data-end=\"172\">Made from durable kraft paper for strength and everyday reliability</li>\r\n \t<li data-section-id=\"1ojaymh\" data-start=\"173\" data-end=\"233\">Strong rope handles provide comfortable carrying support</li>\r\n \t<li data-section-id=\"6r1ch3\" data-start=\"234\" data-end=\"312\">Ideal for retail stores, gifting, events, boutiques, and branded packaging</li>\r\n \t<li data-section-id=\"1yewskt\" data-start=\"313\" data-end=\"391\">Custom printing options available for logos, branding, and promotional use</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"393\" data-end=\"412\"><span role=\"text\"><strong data-start=\"396\" data-end=\"412\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"414\" data-end=\"695\">\r\n \t<li data-section-id=\"1l6fni4\" data-start=\"414\" data-end=\"460\"><strong data-start=\"416\" data-end=\"433\">Product Type:</strong> White Kraft Shopping Bag</li>\r\n \t<li data-section-id=\"de5icr\" data-start=\"461\" data-end=\"503\"><strong data-start=\"463\" data-end=\"476\">Material:</strong> High-Quality Kraft Paper</li>\r\n \t<li data-section-id=\"16401k2\" data-start=\"504\" data-end=\"536\"><strong data-start=\"506\" data-end=\"522\">Handle Type:</strong> Rope Handle</li>\r\n \t<li data-section-id=\"13khyhu\" data-start=\"537\" data-end=\"585\"><strong data-start=\"539\" data-end=\"549\">Print:</strong> Custom Printed Branding Available</li>\r\n \t<li data-section-id=\"1jsgpr8\" data-start=\"586\" data-end=\"644\"><strong data-start=\"588\" data-end=\"598\">Usage:</strong> Retail Packaging, Gifting &amp; Promotional Use</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"645\" data-end=\"695\"><strong data-start=\"647\" data-end=\"665\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"697\" data-end=\"1054\" data-is-last-node=\"\" data-is-only-node=\"\"><strong data-start=\"697\" data-end=\"721\">Product Description:</strong><br data-start=\"721\" data-end=\"724\" />Enhance your packaging presentation with our White Kraft Shopping Bags, designed to combine durability with a premium branded look. Made from quality kraft paper with sturdy rope handles, these bags are ideal for retail stores, events, gift packaging, and promotional branding, offering both functionality and professional appeal.</p>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"z-0 flex min-h-[46px] justify-start\"></div>\r\n<div class=\"mt-3 w-full empty:hidden\">\r\n<div class=\"text-center\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</section></div>\r\n<div class=\"pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]\" aria-hidden=\"true\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/PAPER-BAG-01.png",
+  "gallery": [],
+  "cats": [
+   106,
+   107
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:34:20"
+ },
+ {
+  "id": 5934,
+  "slug": "kraft-shopping-bag-white-top-fold",
+  "name": "Kraft Shopping Bag White Top Fold",
+  "description": "<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"414\">\r\n \t<li data-section-id=\"13i64ht\" data-start=\"18\" data-end=\"93\">Premium white kraft shopping bags with reinforced top fold construction</li>\r\n \t<li data-section-id=\"13ncwc0\" data-start=\"94\" data-end=\"178\">Made from durable kraft paper for enhanced strength and premium packaging appeal</li>\r\n \t<li data-section-id=\"3c6wz7\" data-start=\"179\" data-end=\"257\">Top fold finish adds extra durability and a refined, high-end presentation</li>\r\n \t<li data-section-id=\"7eipiy\" data-start=\"258\" data-end=\"331\">Strong rope handles provide comfortable carrying and reliable support</li>\r\n \t<li data-section-id=\"1o96ya3\" data-start=\"332\" data-end=\"414\">Ideal for retail packaging, boutiques, gifting, events, and branded promotions</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"416\" data-end=\"435\"><span role=\"text\"><strong data-start=\"419\" data-end=\"435\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"437\" data-end=\"778\">\r\n \t<li data-section-id=\"1ufmv9\" data-start=\"437\" data-end=\"494\"><strong data-start=\"439\" data-end=\"456\">Product Type:</strong> White Kraft Shopping Bag – Top Fold</li>\r\n \t<li data-section-id=\"de5icr\" data-start=\"495\" data-end=\"537\"><strong data-start=\"497\" data-end=\"510\">Material:</strong> High-Quality Kraft Paper</li>\r\n \t<li data-section-id=\"16401k2\" data-start=\"538\" data-end=\"570\"><strong data-start=\"540\" data-end=\"556\">Handle Type:</strong> Rope Handle</li>\r\n \t<li data-section-id=\"qecrkv\" data-start=\"571\" data-end=\"619\"><strong data-start=\"573\" data-end=\"590\">Construction:</strong> Reinforced Top Fold Finish</li>\r\n \t<li data-section-id=\"13khyhu\" data-start=\"620\" data-end=\"668\"><strong data-start=\"622\" data-end=\"632\">Print:</strong> Custom Printed Branding Available</li>\r\n \t<li data-section-id=\"1jsgpr8\" data-start=\"669\" data-end=\"727\"><strong data-start=\"671\" data-end=\"681\">Usage:</strong> Retail Packaging, Gifting &amp; Promotional Use</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"728\" data-end=\"778\"><strong data-start=\"730\" data-end=\"748\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"780\" data-end=\"1175\" data-is-last-node=\"\" data-is-only-node=\"\"><br data-start=\"804\" data-end=\"807\" />Upgrade your packaging with our White Kraft Shopping Bags with Top Fold, designed for durability and a premium branded presentation. Featuring reinforced top fold construction, sturdy rope handles, and high-quality kraft paper, these bags are ideal for luxury retail packaging, events, gifting, and promotional branding while offering both strength and sophistication.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "25",
+  "regular": "25",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/PAPER-BAG-02.png",
+  "gallery": [],
+  "cats": [
+   106,
+   107
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:40:00"
+ },
+ {
+  "id": 5935,
+  "slug": "kraft-shopping-bag-brown-virgin",
+  "name": "Kraft Shopping Bag Brown Virgin",
+  "description": "<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"456\">\r\n \t<li data-section-id=\"pnpmza\" data-start=\"18\" data-end=\"107\">Eco-friendly brown virgin kraft shopping bags designed for durable everyday packaging</li>\r\n \t<li data-section-id=\"11w14yi\" data-start=\"108\" data-end=\"199\">Made from high-quality virgin kraft paper for added strength and natural premium appeal</li>\r\n \t<li data-section-id=\"hrz1fs\" data-start=\"200\" data-end=\"282\">Strong twisted paper handles provide comfortable carrying and reliable support</li>\r\n \t<li data-section-id=\"1097noa\" data-start=\"283\" data-end=\"368\">Ideal for retail stores, takeaways, boutiques, gifting, and promotional packaging</li>\r\n \t<li data-section-id=\"f51dw0\" data-start=\"369\" data-end=\"456\">Custom printing options available for logos, branding, and business packaging needs</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"458\" data-end=\"477\"><span role=\"text\"><strong data-start=\"461\" data-end=\"477\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"479\" data-end=\"778\">\r\n \t<li data-section-id=\"18iaqts\" data-start=\"479\" data-end=\"532\"><strong data-start=\"481\" data-end=\"498\">Product Type:</strong> Brown Virgin Kraft Shopping Bag</li>\r\n \t<li data-section-id=\"if9f83\" data-start=\"533\" data-end=\"577\"><strong data-start=\"535\" data-end=\"548\">Material:</strong> Premium Virgin Kraft Paper</li>\r\n \t<li data-section-id=\"c1yuq8\" data-start=\"578\" data-end=\"619\"><strong data-start=\"580\" data-end=\"596\">Handle Type:</strong> Twisted Paper Handle</li>\r\n \t<li data-section-id=\"13khyhu\" data-start=\"620\" data-end=\"668\"><strong data-start=\"622\" data-end=\"632\">Print:</strong> Custom Printed Branding Available</li>\r\n \t<li data-section-id=\"1jsgpr8\" data-start=\"669\" data-end=\"727\"><strong data-start=\"671\" data-end=\"681\">Usage:</strong> Retail Packaging, Gifting &amp; Promotional Use</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"728\" data-end=\"778\"><strong data-start=\"730\" data-end=\"748\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"780\" data-end=\"1145\" data-is-last-node=\"\" data-is-only-node=\"\"><br data-start=\"804\" data-end=\"807\" />Our Brown Virgin Kraft Shopping Bags offer an eco-friendly and professional packaging solution for retail and promotional use. Made from durable virgin kraft paper with sturdy twisted handles, these bags combine strength, sustainability, and premium presentation, making them ideal for boutiques, takeaways, events, and branded packaging.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "30",
+  "regular": "30",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/PAPER-BAG-03-scaled.png",
+  "gallery": [],
+  "cats": [
+   106,
+   107
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:44:05"
+ },
+ {
+  "id": 5936,
+  "slug": "kraft-shopping-bag-brown-recycled",
+  "name": "Kraft Shopping Bag Brown Recycled",
+  "description": "<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"458\">\r\n \t<li data-section-id=\"tcz02x\" data-start=\"18\" data-end=\"110\">Eco-friendly brown recycled kraft shopping bags made for sustainable packaging solutions</li>\r\n \t<li data-section-id=\"yseh6f\" data-start=\"111\" data-end=\"205\">Produced from quality recycled kraft paper for durability and environmental responsibility</li>\r\n \t<li data-section-id=\"6xz7xr\" data-start=\"206\" data-end=\"288\">Strong twisted paper handles offer comfortable carrying and dependable support</li>\r\n \t<li data-section-id=\"13tpac1\" data-start=\"289\" data-end=\"375\">Ideal for retail stores, takeaways, boutiques, events, and eco-conscious packaging</li>\r\n \t<li data-section-id=\"je2lw8\" data-start=\"376\" data-end=\"458\">Custom printing available for branding, logos, and promotional packaging needs</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"460\" data-end=\"479\"><span role=\"text\"><strong data-start=\"463\" data-end=\"479\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"481\" data-end=\"776\">\r\n \t<li data-section-id=\"sdsj32\" data-start=\"481\" data-end=\"536\"><strong data-start=\"483\" data-end=\"500\">Product Type:</strong> Brown Recycled Kraft Shopping Bag</li>\r\n \t<li data-section-id=\"bg3eme\" data-start=\"537\" data-end=\"575\"><strong data-start=\"539\" data-end=\"552\">Material:</strong> Recycled Kraft Paper</li>\r\n \t<li data-section-id=\"c1yuq8\" data-start=\"576\" data-end=\"617\"><strong data-start=\"578\" data-end=\"594\">Handle Type:</strong> Twisted Paper Handle</li>\r\n \t<li data-section-id=\"13khyhu\" data-start=\"618\" data-end=\"666\"><strong data-start=\"620\" data-end=\"630\">Print:</strong> Custom Printed Branding Available</li>\r\n \t<li data-section-id=\"1jsgpr8\" data-start=\"667\" data-end=\"725\"><strong data-start=\"669\" data-end=\"679\">Usage:</strong> Retail Packaging, Gifting &amp; Promotional Use</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"726\" data-end=\"776\"><strong data-start=\"728\" data-end=\"746\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"778\" data-end=\"1168\" data-is-last-node=\"\" data-is-only-node=\"\"><br data-start=\"802\" data-end=\"805\" />Our Brown Recycled Kraft Shopping Bags provide a sustainable and practical packaging solution for businesses looking for eco-friendly branding. Made from durable recycled kraft paper with sturdy twisted handles, these bags are ideal for retail, takeaways, events, and promotional packaging while delivering both functionality and environmentally conscious appeal.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/PAPER-BAG-04-scaled.png",
+  "gallery": [],
+  "cats": [
+   106,
+   107
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:48:55"
+ },
+ {
+  "id": 5938,
+  "slug": "kraft-shopping-bag-brown-virgin-top-fold",
+  "name": "Kraft Shopping Bag Brown Virgin Top Fold",
+  "description": "<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"435\">\r\n \t<li data-section-id=\"rh0yx9\" data-start=\"18\" data-end=\"100\">Premium brown virgin kraft shopping bags with reinforced top fold construction</li>\r\n \t<li data-section-id=\"1hu27ge\" data-start=\"101\" data-end=\"195\">Made from high-quality virgin kraft paper for enhanced durability and premium presentation</li>\r\n \t<li data-section-id=\"1bxqqh\" data-start=\"196\" data-end=\"274\">Top fold finish adds extra strength and a refined, high-end packaging look</li>\r\n \t<li data-section-id=\"hxag2\" data-start=\"275\" data-end=\"353\">Strong twisted paper handles provide reliable carrying support and comfort</li>\r\n \t<li data-section-id=\"6a8cce\" data-start=\"354\" data-end=\"435\">Ideal for retail stores, boutiques, gifting, takeaways, and branded packaging</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"437\" data-end=\"456\"><span role=\"text\"><strong data-start=\"440\" data-end=\"456\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"458\" data-end=\"817\">\r\n \t<li data-section-id=\"1q7ars9\" data-start=\"458\" data-end=\"522\"><strong data-start=\"460\" data-end=\"477\">Product Type:</strong> Brown Virgin Kraft Shopping Bag – Top Fold</li>\r\n \t<li data-section-id=\"if9f83\" data-start=\"523\" data-end=\"567\"><strong data-start=\"525\" data-end=\"538\">Material:</strong> Premium Virgin Kraft Paper</li>\r\n \t<li data-section-id=\"c1yuq8\" data-start=\"568\" data-end=\"609\"><strong data-start=\"570\" data-end=\"586\">Handle Type:</strong> Twisted Paper Handle</li>\r\n \t<li data-section-id=\"qecrkv\" data-start=\"610\" data-end=\"658\"><strong data-start=\"612\" data-end=\"629\">Construction:</strong> Reinforced Top Fold Finish</li>\r\n \t<li data-section-id=\"13khyhu\" data-start=\"659\" data-end=\"707\"><strong data-start=\"661\" data-end=\"671\">Print:</strong> Custom Printed Branding Available</li>\r\n \t<li data-section-id=\"1jsgpr8\" data-start=\"708\" data-end=\"766\"><strong data-start=\"710\" data-end=\"720\">Usage:</strong> Retail Packaging, Gifting &amp; Promotional Use</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"767\" data-end=\"817\"><strong data-start=\"769\" data-end=\"787\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"819\" data-end=\"1197\" data-is-last-node=\"\" data-is-only-node=\"\"><strong data-start=\"819\" data-end=\"843\">Product Description:</strong><br data-start=\"843\" data-end=\"846\" />Our Brown Virgin Kraft Shopping Bags with Top Fold offer a durable and premium packaging solution for businesses seeking strength with elegant presentation. Crafted from quality virgin kraft paper with reinforced top fold construction and sturdy twisted handles, these bags are ideal for retail packaging, boutiques, gifting, and promotional branding.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "35",
+  "regular": "35",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/PAPER-BAG-05-scaled.png",
+  "gallery": [],
+  "cats": [
+   106,
+   107
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:53:48"
+ },
+ {
+  "id": 5939,
+  "slug": "kraft-shopping-bag-brown-recycled-top-fold",
+  "name": "Kraft Shopping Bag Brown Recycled Top Fold",
+  "description": "<h2 data-section-id=\"1j05fc\" data-start=\"0\" data-end=\"16\"><span role=\"text\"><strong data-start=\"3\" data-end=\"16\">FEATURES:</strong></span></h2>\r\n<ul data-start=\"18\" data-end=\"439\">\r\n \t<li data-section-id=\"11bqfx7\" data-start=\"18\" data-end=\"107\">Eco-friendly brown recycled kraft shopping bags with reinforced top fold construction</li>\r\n \t<li data-section-id=\"x9ruin\" data-start=\"108\" data-end=\"189\">Made from durable recycled kraft paper for sustainable and reliable packaging</li>\r\n \t<li data-section-id=\"szj7c2\" data-start=\"190\" data-end=\"265\">Top fold finish adds extra strength and a premium structured appearance</li>\r\n \t<li data-section-id=\"17af9t9\" data-start=\"266\" data-end=\"349\">Strong twisted paper handles ensure comfortable carrying and dependable support</li>\r\n \t<li data-section-id=\"98vqzp\" data-start=\"350\" data-end=\"439\">Ideal for retail packaging, boutiques, gifting, takeaways, and eco-conscious branding</li>\r\n</ul>\r\n<h2 data-section-id=\"1o582hl\" data-start=\"441\" data-end=\"460\"><span role=\"text\"><strong data-start=\"444\" data-end=\"460\">DESCRIPTION:</strong></span></h2>\r\n<ul data-start=\"462\" data-end=\"817\">\r\n \t<li data-section-id=\"1i2ax0n\" data-start=\"462\" data-end=\"528\"><strong data-start=\"464\" data-end=\"481\">Product Type:</strong> Brown Recycled Kraft Shopping Bag – Top Fold</li>\r\n \t<li data-section-id=\"bg3eme\" data-start=\"529\" data-end=\"567\"><strong data-start=\"531\" data-end=\"544\">Material:</strong> Recycled Kraft Paper</li>\r\n \t<li data-section-id=\"c1yuq8\" data-start=\"568\" data-end=\"609\"><strong data-start=\"570\" data-end=\"586\">Handle Type:</strong> Twisted Paper Handle</li>\r\n \t<li data-section-id=\"qecrkv\" data-start=\"610\" data-end=\"658\"><strong data-start=\"612\" data-end=\"629\">Construction:</strong> Reinforced Top Fold Finish</li>\r\n \t<li data-section-id=\"13khyhu\" data-start=\"659\" data-end=\"707\"><strong data-start=\"661\" data-end=\"671\">Print:</strong> Custom Printed Branding Available</li>\r\n \t<li data-section-id=\"1jsgpr8\" data-start=\"708\" data-end=\"766\"><strong data-start=\"710\" data-end=\"720\">Usage:</strong> Retail Packaging, Gifting &amp; Promotional Use</li>\r\n \t<li data-section-id=\"5q7llg\" data-start=\"767\" data-end=\"817\"><strong data-start=\"769\" data-end=\"787\">Customization:</strong> Fully Custom Printed Design</li>\r\n</ul>\r\n<p data-start=\"819\" data-end=\"1187\" data-is-last-node=\"\" data-is-only-node=\"\"><strong data-start=\"819\" data-end=\"843\">Product Description:</strong><br data-start=\"843\" data-end=\"846\" />Our Brown Recycled Kraft Shopping Bags with Top Fold offer a sustainable packaging solution with enhanced durability and premium presentation. Made from quality recycled kraft paper with reinforced top fold construction and sturdy twisted handles, these bags are ideal for eco-friendly retail packaging, gifting, and branded promotional use.</p>\r\n\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "short": "&nbsp;\r\n<div id=\"4C016C35_DCD6_BF40_272C_37051D8C5B13\"></div>",
+  "price": "32",
+  "regular": "32",
+  "sale": null,
+  "sku": null,
+  "stock": "instock",
+  "image": "2026/04/PAPER-BAG-06-scaled.png",
+  "gallery": [],
+  "cats": [
+   106,
+   107
+  ],
+  "featured": false,
+  "order": 0,
+  "type": "simple",
+  "attributes": [],
+  "variations": [],
+  "date": "2026-04-25 12:57:23"
+ }
+]
