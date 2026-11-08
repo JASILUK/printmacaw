@@ -8,9 +8,12 @@ import '../styles/global.css';
 import '../styles/header.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import '../styles/preloader.css';
+import Preloader from '@/components/Preloader';
 import ThemeScripts from '@/components/ThemeScripts';
 import { CartProvider } from '@/lib/cart';
 import { SITE_URL } from '@/lib/site';
+
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -24,6 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body>
+        <Preloader />
         <CartProvider>
           <div id="page" className="pm-site">
             <Header />
