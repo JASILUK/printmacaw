@@ -14,7 +14,6 @@ import ThemeScripts from '@/components/ThemeScripts';
 import { CartProvider } from '@/lib/cart';
 import { SITE_URL } from '@/lib/site';
 
-
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: 'Macaw Advertising | Print Macaw – We print what you want!', template: '%s | Print Macaw' },
@@ -25,7 +24,9 @@ export const viewport: Viewport = { width: 'device-width', initialScale: 1 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    // "pm-intro" holds the page back until the preloader hands over (see preloader.css).
+    // suppressHydrationWarning: Preloader toggles classes on <html> at runtime.
+    <html lang="en" className="pm-intro" suppressHydrationWarning>
       <body>
         <Preloader />
         <CartProvider>

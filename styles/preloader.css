@@ -1,252 +1,197 @@
-/* Print Macaw preloader: drawing blades + logo reveal + text */
+/* =========================================================
+   PRINT MACAW PRELOADER (Framer Motion Edition)
+   ========================================================= */
 
 .pm-preloader {
-  position: fixed;
-  inset: 0;
-  z-index: 99999;
-  display: grid;
-  place-items: center;
-  background: linear-gradient(-226deg, #e5e9ec 0%, #ffffff 100%);
-  clip-path: inset(0 0 0 0);
-  transition: clip-path 0.9s cubic-bezier(0.76, 0, 0.24, 1);
-  animation: pm-pl-failsafe 0.01s linear 7s forwards;
+  background: #ffffff;
+  overflow: hidden;
+  font-family: var(--pm-font-head, system-ui, sans-serif);
 }
 
-@keyframes pm-pl-failsafe {
-  to { opacity: 0; visibility: hidden; pointer-events: none; }
-}
-
-.pm-preloader.is-leaving {
-  clip-path: inset(0 0 100% 0);
-  pointer-events: none;
-}
-
-/* Soft ambient glow in brand colours */
+/* Ambient Brand Glow in Background */
 .pm-preloader__bg {
   position: absolute;
   inset: 0;
-  overflow: hidden;
   pointer-events: none;
-}
-.pm-preloader__bg::before,
-.pm-preloader__bg::after {
-  content: '';
-  position: absolute;
-  width: 46vmax;
-  height: 46vmax;
-  border-radius: 50%;
-  filter: blur(80px);
-  opacity: 0.35;
-  animation: pm-pl-float 6s ease-in-out infinite alternate;
-}
-.pm-preloader__bg::before {
-  top: -18vmax;
-  left: -14vmax;
-  background: radial-gradient(circle, var(--pm-teal-500, #00b8b0), transparent 70%);
-}
-.pm-preloader__bg::after {
-  right: -16vmax;
-  bottom: -20vmax;
-  background: radial-gradient(circle, var(--pm-blue-500, #00a9dc), transparent 70%);
-  animation-delay: -3s;
-}
-@keyframes pm-pl-float {
-  to { transform: translate3d(3vmax, 2vmax, 0) scale(1.08); }
+  background:
+    radial-gradient(circle at 20% 20%, rgba(0, 184, 176, 0.08), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(0, 169, 220, 0.06), transparent 40%);
 }
 
-.pm-preloader__inner {
+.pm-preloader__content {
   position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 24px;
-  text-align: center;
-  transition: opacity 0.45s ease, transform 0.6s ease;
-}
-.pm-preloader.is-leaving .pm-preloader__inner {
-  opacity: 0;
-  transform: translateY(-24px);
+  z-index: 10;
 }
 
-/* =========================================
-   SHAPE & BLADE DRAWING ANIMATION
-   ========================================= */
-
-.shape_container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-.logo_container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.shape {
+/* ---------------------------------------------------------
+   Logo Drawing Effect
+   --------------------------------------------------------- */
+.pm-preloader__logo-wrap {
   position: relative;
-  width: clamp(180px, 30vw, 280px);
-  height: clamp(80px, 15vw, 120px);
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: clamp(200px, 40vw, 320px);
   margin-bottom: 24px;
 }
 
-/* The 4 Blades */
-.blade_container {
-  position: absolute;
-  inset: 0;
-  overflow: hidden;
-  /* Staggered drawing delay */
-  animation: pm-blade-reveal 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) forwards;
-  opacity: 0;
-}
-
-.blade_mask {
-  position: absolute;
-  inset: 0;
-  overflow: hidden;
-}
-
-.blade_shape {
-  position: absolute;
-  width: 200%;
-  height: 200%;
-  top: -50%;
-  left: -50%;
-}
-
-/* Blade 1 - Top Left (Teal) */
-.blade_1_container { transform: rotate(0deg); animation-delay: 0.2s; }
-.blade_1 { background: var(--pm-teal-500, #00b8b0); clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%); }
-
-/* Blade 2 - Bottom Left (Yellow) */
-.blade_2_container { transform: rotate(90deg); animation-delay: 0.35s; }
-.blade_2 { background: var(--pm-yellow-500, #ffd500); clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%); }
-
-/* Blade 3 - Bottom Right (Blue) */
-.blade_3_container { transform: rotate(180deg); animation-delay: 0.5s; }
-.blade_3 { background: var(--pm-blue-500, #00a9dc); clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%); }
-
-/* Blade 4 - Top Right (Black/Text) */
-.blade_4_container { transform: rotate(270deg); animation-delay: 0.65s; }
-.blade_4 { background: var(--pm-text, #171717); clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%); }
-
-@keyframes pm-blade-reveal {
-  0% { opacity: 0; transform: scale(0.6) translate(20px, 20px); }
-  100% { opacity: 1; transform: scale(1) translate(0, 0); }
-}
-
-/* Logo fades in after blades assemble */
-.pm-preloader__logo {
-  position: relative;
-  z-index: 2;
-  width: clamp(160px, 26vw, 240px);
-  opacity: 0;
-  transform: scale(0.9);
-  animation: pm-logo-appear 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) 0.9s forwards;
-}
-.pm-preloader__logo img {
+.pm-preloader__logo-mask {
   width: 100%;
   height: auto;
-  /* Invert logo if it's black on transparent to match the background */
-  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.1));
 }
 
-@keyframes pm-logo-appear {
-  to { opacity: 1; transform: scale(1); }
+.pm-preloader__logo-img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.05));
 }
 
-/* =========================================
-   TEXT & BRAND REVEAL
-   ========================================= */
-
-.word_container {
-  min-height: 40px; /* Prevent layout shift */
+/* The glowing pen line that draws the logo */
+.pm-preloader__draw-line {
+  position: absolute;
+  top: -10%;
+  bottom: -10%;
+  width: 4px;
+  background: #00b8b0;
+  border-radius: 4px;
+  box-shadow: 
+    0 0 10px 2px rgba(0, 184, 176, 0.6),
+    0 0 20px 4px rgba(0, 169, 220, 0.3);
+  z-index: 2;
 }
 
+/* ---------------------------------------------------------
+   Text Reveal
+   --------------------------------------------------------- */
 .pm-preloader__brand {
-  font-family: var(--pm-font-head, 'Manrope', system-ui, sans-serif);
-  font-size: clamp(18px, 3vw, 26px);
+  font-size: clamp(20px, 4vw, 28px);
   font-weight: 800;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.25em;
   color: var(--pm-text, #171717);
   text-transform: uppercase;
-}
-
-.pm-preloader__char {
-  display: inline-block;
-  opacity: 0;
-  filter: blur(8px);
-  transform: translate3d(0, 0.4em, 0);
-  animation: pm-pl-char 0.6s cubic-bezier(0.2, 0.65, 0.3, 1) forwards;
-  /* Delay starts after the logo is revealed */
-  animation-delay: calc(1.2s + var(--i, 0) * 0.04s);
-}
-@keyframes pm-pl-char {
-  to { opacity: 1; filter: blur(0); transform: translate3d(0, 0, 0); }
+  margin-bottom: 12px;
+  text-align: center;
 }
 
 .pm-preloader__tagline {
-  margin: 16px 0 0;
-  font: 500 14px/1.4 var(--pm-font-body, 'Inter', system-ui, sans-serif);
-  letter-spacing: 0.04em;
+  font-family: var(--pm-font-body, sans-serif);
+  font-size: 14px;
   color: var(--pm-text-2, #5a6168);
-  opacity: 0;
-  transform: translateY(8px);
-  animation: pm-pl-fade-up 0.6s ease 2s forwards;
+  letter-spacing: 0.05em;
+  margin: 0;
 }
-@keyframes pm-pl-fade-up { to { opacity: 1; transform: translateY(0); } }
 
-/* =========================================
-   PROGRESS TRACK
-   ========================================= */
+/* ---------------------------------------------------------
+   Counter & Dots Area (Fixed height prevents jumping)
+   --------------------------------------------------------- */
+.pm-preloader__bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px; /* Fixed height so dots and counter occupy same space */
+  margin-top: 20px;
+  width: 100%;
+}
+
+/* Counter */
+.pm-preloader__counter-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.pm-preloader__count {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--pm-teal-600, #00807A);
+  font-variant-numeric: tabular-nums;
+  margin-bottom: 12px;
+}
 
 .pm-preloader__track {
-  position: relative;
-  width: clamp(160px, 24vw, 220px);
+  width: 100%;
   height: 3px;
-  margin-top: 32px;
+  background: #e8ecef;
+  border-radius: 99px;
   overflow: hidden;
-  border-radius: 999px;
-  background: var(--pm-border, #e8ecef);
-  opacity: 0;
-  animation: pm-pl-fade-up 0.5s ease 0.6s forwards;
+  position: relative;
 }
 
 .pm-preloader__bar {
   position: absolute;
   inset: 0;
-  border-radius: inherit;
-  background: linear-gradient(90deg, var(--pm-teal-500, #00b8b0), var(--pm-blue-500, #00a9dc), var(--pm-yellow-500, #ffd500));
-  transform: scaleX(0);
+  background: linear-gradient(90deg, #00b8b0, #00a9dc, #ffd500);
   transform-origin: left center;
-  animation: pm-pl-bar 2s cubic-bezier(0.4, 0, 0.2, 1) 0.5s forwards;
-}
-.pm-preloader.is-ready .pm-preloader__bar {
-  animation: pm-pl-bar-finish 0.3s ease forwards;
-}
-@keyframes pm-pl-bar { to { transform: scaleX(0.85); } }
-@keyframes pm-pl-bar-finish {
-  from { transform: scaleX(0.85); }
-  to { transform: scaleX(1); }
 }
 
-/* =========================================
-   REDUCED MOTION
-   ========================================= */
+/* The 3 Scaling Dots */
+.pm-preloader__dots {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
 
+.pm-preloader__dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+}
+
+.pm-preloader__dot:nth-child(1) { background-color: var(--pm-teal-500, #00b8b0); }
+.pm-preloader__dot:nth-child(2) { background-color: var(--pm-yellow-500, #ffd500); }
+.pm-preloader__dot:nth-child(3) { background-color: var(--pm-blue-500, #00a9dc); }
+
+
+/* =========================================================
+   HOMEPAGE REVEAL (Kept from your previous CSS)
+   ========================================================= */
+:root { --pm-rv-ease: cubic-bezier(0.22, 1, 0.36, 1); }
+
+html.pm-intro #page > :not(main):not(footer) { opacity: 0; transform: translateY(-28px); }
+html.pm-intro #primary > * { opacity: 0; transform: translateY(56px); }
+
+html.pm-intro #page > :not(main):not(footer),
+html.pm-intro #primary > * {
+  animation: pm-rv-failsafe 0.01s linear 10s forwards;
+}
+@keyframes pm-rv-failsafe { to { opacity: 1; transform: none; } }
+
+html.pm-reveal #page > :not(main):not(footer) {
+  animation: pm-rv-down 1s var(--pm-rv-ease) 0.25s both;
+}
+html.pm-reveal #primary > * {
+  animation: pm-rv-up 1.1s var(--pm-rv-ease) both;
+  animation-delay: 0.3s;
+}
+html.pm-reveal #primary > *:first-child {
+  animation-name: pm-rv-hero;
+  animation-duration: 1.4s;
+  animation-delay: 0.2s;
+}
+html.pm-reveal #primary > *:nth-child(2) { animation-delay: 0.55s; }
+html.pm-reveal #primary > *:nth-child(3) { animation-delay: 0.7s; }
+html.pm-reveal #primary > *:nth-child(n + 4) { animation-delay: 0.85s; }
+
+@keyframes pm-rv-down {
+  from { opacity: 0; transform: translateY(-28px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes pm-rv-up {
+  from { opacity: 0; transform: translateY(56px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes pm-rv-hero {
+  from { opacity: 0; transform: translateY(72px) scale(1.05); filter: blur(10px); }
+  to   { opacity: 1; transform: none; filter: blur(0); }
+}
+
+/* Reduced Motion */
 @media (prefers-reduced-motion: reduce) {
-  .pm-preloader { clip-path: none; transition: opacity 0.3s ease; }
-  .pm-preloader.is-leaving { clip-path: none; opacity: 0; }
-  
-  .blade_container { animation: none; opacity: 0.2; }
-  .pm-preloader__logo { animation: none; opacity: 1; transform: none; }
-  .pm-preloader__char { animation: none; opacity: 1; filter: none; transform: none; }
-  .pm-preloader__tagline, .pm-preloader__track { animation: none; opacity: 1; transform: none; }
-  .pm-preloader__bar { animation: none; transform: scaleX(1); }
-  .pm-preloader__bg::before, .pm-preloader__bg::after { animation: none; }
+  html.pm-intro #page > :not(main):not(footer),
+  html.pm-intro #primary > * { opacity: 0; transform: none; }
+  html.pm-reveal #page > :not(main):not(footer),
+  html.pm-reveal #primary > * { animation: pm-rv-fade 0.4s ease both !important; animation-delay: 0s !important; }
+  @keyframes pm-rv-fade { from { opacity: 0; } to { opacity: 1; } }
 }

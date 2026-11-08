@@ -2,140 +2,168 @@
 
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
+import { motion, AnimatePresence, useMotionValue, animate, Variants } from 'framer-motion';
 
 const BRAND = 'PRINT MACAW';
 const TAGLINE = 'We print what you want!';
-const EXIT_MS = 900;
-
-type Phase = 'loading' | 'ready' | 'leaving' | 'gone';
 
 export default function Preloader() {
-  const [phase, setPhase] = useState<Phase>('loading');
+  const [isVisible, setIsVisible] = useState(true);
+  const [phase, setPhase] = useState<'loading' | 'dots' | 'exit'>('loading');
+  const count = useMotionValue(0);
+  const [displayCount, setDisplayCount] = useState(0);
 
   useEffect(() => {
-    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const minMs = reduce ? 300 : 2600; // Time for the blades + logo + text to finish
-    const maxMs = 8000;
-    const root = document.documentElement;
-    const timers: number[] = [];
+    // 1. Animate the counter from 0 to 100
+    const controls = animate(count, 100, {
+      duration: 2.2,
+      ease: [0.22, 1, 0.36, 1], // Premium easing
+      onUpdate: (latest) => setDisplayCount(Math.round(latest)),
+      onComplete: () => {
+        // 2. When counter hits 100, switch to the 3 dots animation
+        setTimeout(() => setPhase('dots'), 200);
+        
+        // 3. After dots finish animating, trigger the exit curtain
+        setTimeout(() => {
+          setPhase('exit');
+          document.documentElement.classList.remove('pm-intro');
+          document.documentElement.classList.add('pm-reveal');
+        }, 1800); 
+        
+        // 4. Completely remove the preloader from DOM
+        setTimeout(() => setIsVisible(false), 2800);
+      },
+    });
 
-    let cancelled = false;
-    let finished = false;
-    let minDone = false;
-    let pageDone = false;
+    return () => controls.stop();
+  }, [count]);
 
-    root.style.overflow = 'hidden';
+  const brandLetters = BRAND.split('').map((char, i) => (
+    <motion.span
+      key={i}
+      initial={{ opacity: 0, y: 15, filter: 'blur(8px)' }}
+      animate={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
+      transition={{ delay: 1.2 + i * 0.04, duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
+      className="inline-block"
+    >
+      {char === ' ' ? '\u00A0' : char}
+    </motion.span>
+  ));
 
-    const finish = () => {
-      if (finished || cancelled) return;
-      finished = true;
-      setPhase('ready');
-      timers.push(
-        window.setTimeout(() => {
-          setPhase('leaving');
-          timers.push(
-            window.setTimeout(() => {
-              root.style.overflow = '';
-              setPhase('gone');
-            }, EXIT_MS)
-          );
-        }, reduce ? 0 : 350)
-      );
-    };
-
-    const check = () => {
-      if (minDone && pageDone) finish();
-    };
-
-    timers.push(window.setTimeout(() => { minDone = true; check(); }, minMs));
-    timers.push(window.setTimeout(() => { minDone = true; pageDone = true; check(); }, maxMs));
-
-    const onLoad = () => {
-      const fonts = document.fonts?.ready ?? Promise.resolve();
-      fonts.then(() => { pageDone = true; check(); });
-    };
-
-    if (document.readyState === 'complete') onLoad();
-    else window.addEventListener('load', onLoad, { once: true });
-
-    return () => {
-      cancelled = true;
-      timers.forEach((t) => window.clearTimeout(t));
-      window.removeEventListener('load', onLoad);
-      root.style.overflow = '';
-    };
-  }, []);
-
-  if (phase === 'gone') return null;
-
-  const cls = [
-    'pm-preloader',
-    phase !== 'loading' ? 'is-ready' : '',
-    phase === 'leaving' ? 'is-leaving' : '',
-  ].join(' ').trim();
+  // 3 Dots animation variants
+  // FIXED: Added Variants type and changed ease to a cubic-bezier array
+  const dotVariants: Variants = {
+    initial: { scale: 0, opacity: 0 },
+    animate: (i: number) => ({
+      scale: [0, 1.2, 1],
+      opacity: 1,
+      transition: {
+        delay: i * 0.2,
+        duration: 0.5,
+        ease: [0.22, 1, 0.36, 1], // Used array instead of string to fix TS error
+      },
+    }),
+  };
 
   return (
-    <div className={cls} role="status" aria-live="polite" aria-busy={phase !== 'leaving'}>
-      <span className="screen-reader-text">Loading Print Macaw</span>
-      <noscript>
-        <style>{`.pm-preloader{display:none!important}`}</style>
-      </noscript>
+    <AnimatePresence>
+      {isVisible && (
+        <motion.div
+          key="preloader"
+          className="pm-preloader"
+          initial={{ opacity: 1 }}
+          exit={{ opacity: 0 }}
+          animate={phase === 'exit' ? { clipPath: 'inset(0 0 100% 0)' } : {}}
+          transition={{ duration: 0.9, ease: [0.76, 0, 0.24, 1] }}
+          style={{ position: 'fixed', inset: 0, zIndex: 99999, display: 'grid', placeItems: 'center' }}
+        >
+          <div className="pm-preloader__bg" aria-hidden="true" />
 
-      <div className="pm-preloader__bg" aria-hidden="true" />
-
-      <div className="pm-preloader__inner">
-        {/* The Shape/Blade Assembly Animation */}
-        <div className="shape_container" aria-hidden="true">
-          <div className="logo_container">
-            <div className="shape">
-              <div className="blade_container blade_1_container">
-                <div className="blade_mask"><div className="blade_shape blade_1"></div></div>
-              </div>
-              <div className="blade_container blade_2_container">
-                <div className="blade_mask"><div className="blade_shape blade_2"></div></div>
-              </div>
-              <div className="blade_container blade_3_container">
-                <div className="blade_mask"><div className="blade_shape blade_3"></div></div>
-              </div>
-              <div className="blade_container blade_4_container">
-                <div className="blade_mask"><div className="blade_shape blade_4"></div></div>
-              </div>
-              
-              {/* The Actual Logo image fades in as the blades finish */}
-              <div className="pm-preloader__logo">
+          <div className="pm-preloader__content">
+            
+            <div className="pm-preloader__logo-wrap">
+              <motion.div
+                className="pm-preloader__logo-mask"
+                initial={{ clipPath: 'inset(0 100% 0 0)' }}
+                animate={{ clipPath: 'inset(0 0 0 0)' }}
+                transition={{ duration: 1.2, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
+              >
                 <Image
                   src="/images/printmacaw-logo.png"
-                  alt=""
+                  alt="Print Macaw"
                   width={320}
                   height={110}
                   priority
+                  className="pm-preloader__logo-img"
                 />
-              </div>
+              </motion.div>
+              
+              <motion.div
+                className="pm-preloader__draw-line"
+                initial={{ left: '0%', opacity: 1 }}
+                animate={{ left: '100%', opacity: 0 }}
+                transition={{ duration: 1.2, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
+              />
             </div>
-            
-            {/* Word Reveal */}
-            <div className="word_container">
-              <div className="pm-preloader__brand">
-                {BRAND.split('').map((ch, i) => (
-                  <span
-                    key={i}
-                    className="pm-preloader__char"
-                    style={{ ['--i' as string]: i }}
+
+            <div className="pm-preloader__brand">
+              {brandLetters}
+            </div>
+
+            <motion.p
+              className="pm-preloader__tagline"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 2.0, duration: 0.6 }}
+            >
+              {TAGLINE}
+            </motion.p>
+
+            <div className="pm-preloader__bottom">
+              <AnimatePresence mode="wait">
+                {phase === 'loading' && (
+                  <motion.div
+                    key="counter"
+                    className="pm-preloader__counter-wrap"
+                    exit={{ opacity: 0, y: -10, filter: 'blur(4px)' }}
+                    transition={{ duration: 0.3 }}
                   >
-                    {ch === ' ' ? '\u00A0' : ch}
-                  </span>
-                ))}
-              </div>
+                    <span className="pm-preloader__count">{displayCount.toString().padStart(3, '0')}%</span>
+                    <div className="pm-preloader__track">
+                      <motion.div
+                        className="pm-preloader__bar"
+                        style={{ scaleX: count.get() / 100 }}
+                      />
+                    </div>
+                  </motion.div>
+                )}
+
+                {phase === 'dots' && (
+                  <motion.div
+                    key="dots"
+                    className="pm-preloader__dots"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    exit={{ opacity: 0 }}
+                  >
+                    {[0, 1, 2].map((i) => (
+                      <motion.div
+                        key={i}
+                        className="pm-preloader__dot"
+                        custom={i}
+                        variants={dotVariants}
+                        initial="initial"
+                        animate="animate"
+                      />
+                    ))}
+                  </motion.div>
+                )}
+              </AnimatePresence>
             </div>
+
           </div>
-        </div>
-
-        <p className="pm-preloader__tagline">{TAGLINE}</p>
-
-        <div className="pm-preloader__track">
-          <span className="pm-preloader__bar" />
-        </div>
-      </div>
-    </div>
+        </motion.div>
+      )}
+    </AnimatePresence>
   );
 }
