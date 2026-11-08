@@ -1,5 +1,5 @@
 /* =========================================================
-   PRINT MACAW — SHOP (Production Premium UI/UX)
+   PRINT MACAW — SHOP (Single Source of Truth)
 ========================================================= */
 
 /* =========================================================
@@ -7,8 +7,8 @@
    ========================================================= */
 
 .pm-shop {
-    --pm-shop-accent: #00807A;
-    --pm-shop-accent-dark: #006A65;
+    --pm-shop-accent: var(--pm-teal-600, #00807A);
+    --pm-shop-accent-dark: var(--pm-teal-700, #006A65);
     --pm-shop-border: #E8ECEF;
     --pm-shop-bg-light: #F8F9FA;
     --pm-shop-offset: 24px;
@@ -28,59 +28,22 @@
 }
 
 /* =========================================================
-   HERO SECTION (Full width background image)
+   HERO SECTION
    ========================================================= */
 
 .pm-shop-header {
     position: relative;
     isolation: isolate;
-    display: block;
     width: 100vw;
-    max-width: none;
     margin: 0 0 0 calc(50% - 50vw);
     padding: 24px 24px 96px;
     text-align: center;
-    /* Base gradient background */
     background:
         radial-gradient(circle at 82% 18%, rgba(0, 128, 122, 0.12), transparent 55%),
         radial-gradient(circle at 12% 70%, rgba(0, 128, 122, 0.08), transparent 50%),
         linear-gradient(135deg, #f0f7f6 0%, #f8fcfb 100%);
     -webkit-mask-image: linear-gradient(to bottom, #000 65%, transparent 100%);
     mask-image: linear-gradient(to bottom, #000 65%, transparent 100%);
-}
-
-/* The background image container - ABSOLUTE positioning */
-.pm-shop-header__bg {
-    position: absolute;
-    z-index: -2;
-    inset: 0;
-    pointer-events: none;
-    -webkit-mask-image: linear-gradient(to bottom, #000 45%, transparent 100%);
-    mask-image: linear-gradient(to bottom, #000 45%, transparent 100%);
-}
-
-/* The image itself - full width, cover, low opacity */
-.pm-shop-header__bg-image {
-    display: block;
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    object-fit: cover;
-    opacity: 0.28; /* Adjust this between 0.15 (darker) and 0.4 (brighter) */
-}
-
-/* Light veil behind the text for readability */
-.pm-shop-header.has-bg::after {
-    position: absolute;
-    z-index: -1;
-    inset: 0;
-    background: radial-gradient(
-        ellipse at 50% 45%,
-        rgba(255, 255, 255, 0.55) 0%,
-        rgba(255, 255, 255, 0) 70%
-    );
-    content: "";
-    pointer-events: none;
 }
 
 .pm-shop-header__crumbs {
@@ -132,6 +95,7 @@
     line-height: 1.75;
 }
 .pm-shop-header__description p { margin: 0; }
+
 /* Search */
 .pm-shop-search { max-width: 560px; margin: 28px auto 0; }
 .pm-shop-search .pm-product-search { position: relative; display: flex; width: 100%; }
@@ -229,7 +193,7 @@
 .pm-shop-main { min-width: 0; }
 
 /* =========================================================
-   PREMIUM SIDEBAR FILTERS
+   SIDEBAR FILTERS
    ========================================================= */
 
 .pm-shop-sidebar {
@@ -552,7 +516,7 @@
     position: relative;
     width: 100%;
     aspect-ratio: 1 / 1;
-    background: #ffffff; /* Clean white background */
+    background: #ffffff;
     padding: 20px;
     overflow: hidden;
 }
@@ -570,7 +534,7 @@
     width: 100%;
     height: 100%;
     object-fit: contain;
-    opacity: 1; /* Explicitly full opacity */
+    opacity: 1;
     transition: opacity 0.3s ease, transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
 }
 
@@ -783,7 +747,7 @@
     display: block;
     width: 20px;
     height: 20px;
-    filter: brightness(0) invert(1); /* Forces the icon to pure white */
+    filter: brightness(0) invert(1);
 }
 
 .pm-shop .pm-product-card__wa:hover {
@@ -854,7 +818,7 @@
 }
 
 /* =========================================================
-   MOBILE
+   MOBILE (Drawer, Toggles & 1-Col Horizontal Cards)
    ========================================================= */
 
 @media (max-width: 768px) {
@@ -894,28 +858,37 @@
         cursor: pointer;
     }
 
-    /* Sidebar as Bottom Sheet */
+    /* Sidebar Bottom Sheet Drawer */
     .pm-shop-sidebar {
         position: fixed;
         z-index: 9999;
         top: auto; right: 0; bottom: 0; left: 0;
         width: 100%;
-        max-height: 85dvh;
+        max-height: 90dvh;
         border: 0;
         border-radius: 24px 24px 0 0;
+        background: #fff;
         box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.15);
         transform: translateY(100%);
         visibility: hidden;
         transition: transform 0.3s cubic-bezier(0.2, 0.7, 0.2, 1), visibility 0.3s;
+        
+        /* Flexbox to keep header/footer fixed and middle scrollable */
+        display: flex;
+        flex-direction: column;
     }
+    
     .pm-shop-sidebar.is-open {
         transform: translateY(0);
         visibility: visible;
     }
+
     .pm-shop-sidebar__header {
         position: relative;
         padding: 24px 20px 16px;
+        flex-shrink: 0; /* Prevents header from squishing */
     }
+
     .pm-shop-sidebar__header::before {
         position: absolute;
         top: 10px; left: 50%;
@@ -925,10 +898,32 @@
         content: "";
         transform: translateX(-50%);
     }
+
     .pm-shop-sidebar__close { display: inline-flex; }
-    .pm-shop-filters__groups { padding: 0 20px; }
-    .pm-filter-option { min-height: 44px; font-size: 15px; }
-    .pm-shop-filters__actions { padding: 16px 20px calc(20px + env(safe-area-inset-bottom)); }
+
+    /* Scrollable Middle Section */
+    .pm-shop-filters {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        min-height: 0; /* Crucial for flex children to scroll */
+    }
+
+    .pm-shop-filters__groups {
+        flex: 1;
+        overflow-y: auto;
+        overscroll-behavior: contain; /* Stops the page behind from scrolling */
+        padding: 0 20px;
+    }
+
+    /* Fixed Footer Actions */
+    .pm-shop-filters__actions {
+        flex-shrink: 0;
+        padding: 16px 20px calc(20px + env(safe-area-inset-bottom));
+        background: #fff;
+        border-top: 1px solid var(--pm-shop-border);
+        box-shadow: 0 -6px 18px rgba(0, 0, 0, 0.05);
+    }
 
     /* Toolbar stacks */
     .pm-shop-toolbar {
